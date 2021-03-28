@@ -1,0 +1,8 @@
+C:\New folder (2)\Training d\C-Sharp\Lab 20\TDDdemo\CalculatorLib\bin\Debug\netstandard2.1\CalculatorLib.deps.json
+C:\New folder (2)\Training d\C-Sharp\Lab 20\TDDdemo\CalculatorLib\bin\Debug\netstandard2.1\CalculatorLib.dll
+C:\New folder (2)\Training d\C-Sharp\Lab 20\TDDdemo\CalculatorLib\bin\Debug\netstandard2.1\CalculatorLib.pdb
+C:\New folder (2)\Training d\C-Sharp\Lab 20\TDDdemo\CalculatorLib\obj\Debug\netstandard2.1\CalculatorLib.AssemblyInfoInputs.cache
+C:\New folder (2)\Training d\C-Sharp\Lab 20\TDDdemo\CalculatorLib\obj\Debug\netstandard2.1\CalculatorLib.AssemblyInfo.cs
+C:\New folder (2)\Training d\C-Sharp\Lab 20\TDDdemo\CalculatorLib\obj\Debug\netstandard2.1\CalculatorLib.csproj.CoreCompileInputs.cache
+C:\New folder (2)\Training d\C-Sharp\Lab 20\TDDdemo\CalculatorLib\obj\Debug\netstandard2.1\CalculatorLib.dll
+C:\New folder (2)\Training d\C-Sharp\Lab 20\TDDdemo\CalculatorLib\obj\Debug\netstandard2.1\CalculatorLib.pdb
