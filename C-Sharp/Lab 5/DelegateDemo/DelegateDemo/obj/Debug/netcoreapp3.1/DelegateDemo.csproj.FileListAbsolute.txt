@@ -1,0 +1,25 @@
+C:\Training\Day8 23-03-2021\DelegateDemo\DelegateDemo\bin\Debug\netcoreapp3.1\DelegateDemo.exe
+C:\Training\Day8 23-03-2021\DelegateDemo\DelegateDemo\bin\Debug\netcoreapp3.1\DelegateDemo.deps.json
+C:\Training\Day8 23-03-2021\DelegateDemo\DelegateDemo\bin\Debug\netcoreapp3.1\DelegateDemo.runtimeconfig.json
+C:\Training\Day8 23-03-2021\DelegateDemo\DelegateDemo\bin\Debug\netcoreapp3.1\DelegateDemo.runtimeconfig.dev.json
+C:\Training\Day8 23-03-2021\DelegateDemo\DelegateDemo\bin\Debug\netcoreapp3.1\DelegateDemo.dll
+C:\Training\Day8 23-03-2021\DelegateDemo\DelegateDemo\bin\Debug\netcoreapp3.1\DelegateDemo.pdb
+C:\Training\Day8 23-03-2021\DelegateDemo\DelegateDemo\obj\Debug\netcoreapp3.1\DelegateDemo.AssemblyInfoInputs.cache
+C:\Training\Day8 23-03-2021\DelegateDemo\DelegateDemo\obj\Debug\netcoreapp3.1\DelegateDemo.AssemblyInfo.cs
+C:\Training\Day8 23-03-2021\DelegateDemo\DelegateDemo\obj\Debug\netcoreapp3.1\DelegateDemo.csproj.CoreCompileInputs.cache
+C:\Training\Day8 23-03-2021\DelegateDemo\DelegateDemo\obj\Debug\netcoreapp3.1\DelegateDemo.dll
+C:\Training\Day8 23-03-2021\DelegateDemo\DelegateDemo\obj\Debug\netcoreapp3.1\DelegateDemo.pdb
+C:\Training\Day8 23-03-2021\DelegateDemo\DelegateDemo\obj\Debug\netcoreapp3.1\DelegateDemo.genruntimeconfig.cache
+C:\Training\Day8 23-03-2021\DelegateDemo\DelegateDemo\obj\Debug\netcoreapp3.1\DelegateDemo.csprojAssemblyReference.cache
+C:\New folder (2)\Training d\C-Sharp\Day8 23-03-2021\DelegateDemo\DelegateDemo\bin\Debug\netcoreapp3.1\DelegateDemo.exe
+C:\New folder (2)\Training d\C-Sharp\Day8 23-03-2021\DelegateDemo\DelegateDemo\bin\Debug\netcoreapp3.1\DelegateDemo.deps.json
+C:\New folder (2)\Training d\C-Sharp\Day8 23-03-2021\DelegateDemo\DelegateDemo\bin\Debug\netcoreapp3.1\DelegateDemo.runtimeconfig.json
+C:\New folder (2)\Training d\C-Sharp\Day8 23-03-2021\DelegateDemo\DelegateDemo\bin\Debug\netcoreapp3.1\DelegateDemo.runtimeconfig.dev.json
+C:\New folder (2)\Training d\C-Sharp\Day8 23-03-2021\DelegateDemo\DelegateDemo\bin\Debug\netcoreapp3.1\DelegateDemo.dll
+C:\New folder (2)\Training d\C-Sharp\Day8 23-03-2021\DelegateDemo\DelegateDemo\bin\Debug\netcoreapp3.1\DelegateDemo.pdb
+C:\New folder (2)\Training d\C-Sharp\Day8 23-03-2021\DelegateDemo\DelegateDemo\obj\Debug\netcoreapp3.1\DelegateDemo.AssemblyInfoInputs.cache
+C:\New folder (2)\Training d\C-Sharp\Day8 23-03-2021\DelegateDemo\DelegateDemo\obj\Debug\netcoreapp3.1\DelegateDemo.AssemblyInfo.cs
+C:\New folder (2)\Training d\C-Sharp\Day8 23-03-2021\DelegateDemo\DelegateDemo\obj\Debug\netcoreapp3.1\DelegateDemo.csproj.CoreCompileInputs.cache
+C:\New folder (2)\Training d\C-Sharp\Day8 23-03-2021\DelegateDemo\DelegateDemo\obj\Debug\netcoreapp3.1\DelegateDemo.dll
+C:\New folder (2)\Training d\C-Sharp\Day8 23-03-2021\DelegateDemo\DelegateDemo\obj\Debug\netcoreapp3.1\DelegateDemo.pdb
+C:\New folder (2)\Training d\C-Sharp\Day8 23-03-2021\DelegateDemo\DelegateDemo\obj\Debug\netcoreapp3.1\DelegateDemo.genruntimeconfig.cache
