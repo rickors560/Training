@@ -1,0 +1,12 @@
+C:\New folder (2)\Training d\C-Sharp\Lab 4\DelegateCalculator\DelegateCalculator\bin\Debug\netcoreapp3.1\DelegateCalculator.exe
+C:\New folder (2)\Training d\C-Sharp\Lab 4\DelegateCalculator\DelegateCalculator\bin\Debug\netcoreapp3.1\DelegateCalculator.deps.json
+C:\New folder (2)\Training d\C-Sharp\Lab 4\DelegateCalculator\DelegateCalculator\bin\Debug\netcoreapp3.1\DelegateCalculator.runtimeconfig.json
+C:\New folder (2)\Training d\C-Sharp\Lab 4\DelegateCalculator\DelegateCalculator\bin\Debug\netcoreapp3.1\DelegateCalculator.runtimeconfig.dev.json
+C:\New folder (2)\Training d\C-Sharp\Lab 4\DelegateCalculator\DelegateCalculator\bin\Debug\netcoreapp3.1\DelegateCalculator.dll
+C:\New folder (2)\Training d\C-Sharp\Lab 4\DelegateCalculator\DelegateCalculator\bin\Debug\netcoreapp3.1\DelegateCalculator.pdb
+C:\New folder (2)\Training d\C-Sharp\Lab 4\DelegateCalculator\DelegateCalculator\obj\Debug\netcoreapp3.1\DelegateCalculator.AssemblyInfoInputs.cache
+C:\New folder (2)\Training d\C-Sharp\Lab 4\DelegateCalculator\DelegateCalculator\obj\Debug\netcoreapp3.1\DelegateCalculator.AssemblyInfo.cs
+C:\New folder (2)\Training d\C-Sharp\Lab 4\DelegateCalculator\DelegateCalculator\obj\Debug\netcoreapp3.1\DelegateCalculator.csproj.CoreCompileInputs.cache
+C:\New folder (2)\Training d\C-Sharp\Lab 4\DelegateCalculator\DelegateCalculator\obj\Debug\netcoreapp3.1\DelegateCalculator.dll
+C:\New folder (2)\Training d\C-Sharp\Lab 4\DelegateCalculator\DelegateCalculator\obj\Debug\netcoreapp3.1\DelegateCalculator.pdb
+C:\New folder (2)\Training d\C-Sharp\Lab 4\DelegateCalculator\DelegateCalculator\obj\Debug\netcoreapp3.1\DelegateCalculator.genruntimeconfig.cache
