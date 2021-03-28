@@ -1,0 +1,12 @@
+C:\New folder (2)\Training d\C-Sharp\Lab 19\GenericsLinq\GenericsLinq\bin\Debug\netcoreapp3.1\GenericsLinq.exe
+C:\New folder (2)\Training d\C-Sharp\Lab 19\GenericsLinq\GenericsLinq\bin\Debug\netcoreapp3.1\GenericsLinq.deps.json
+C:\New folder (2)\Training d\C-Sharp\Lab 19\GenericsLinq\GenericsLinq\bin\Debug\netcoreapp3.1\GenericsLinq.runtimeconfig.json
+C:\New folder (2)\Training d\C-Sharp\Lab 19\GenericsLinq\GenericsLinq\bin\Debug\netcoreapp3.1\GenericsLinq.runtimeconfig.dev.json
+C:\New folder (2)\Training d\C-Sharp\Lab 19\GenericsLinq\GenericsLinq\bin\Debug\netcoreapp3.1\GenericsLinq.dll
+C:\New folder (2)\Training d\C-Sharp\Lab 19\GenericsLinq\GenericsLinq\bin\Debug\netcoreapp3.1\GenericsLinq.pdb
+C:\New folder (2)\Training d\C-Sharp\Lab 19\GenericsLinq\GenericsLinq\obj\Debug\netcoreapp3.1\GenericsLinq.AssemblyInfoInputs.cache
+C:\New folder (2)\Training d\C-Sharp\Lab 19\GenericsLinq\GenericsLinq\obj\Debug\netcoreapp3.1\GenericsLinq.AssemblyInfo.cs
+C:\New folder (2)\Training d\C-Sharp\Lab 19\GenericsLinq\GenericsLinq\obj\Debug\netcoreapp3.1\GenericsLinq.csproj.CoreCompileInputs.cache
+C:\New folder (2)\Training d\C-Sharp\Lab 19\GenericsLinq\GenericsLinq\obj\Debug\netcoreapp3.1\GenericsLinq.dll
+C:\New folder (2)\Training d\C-Sharp\Lab 19\GenericsLinq\GenericsLinq\obj\Debug\netcoreapp3.1\GenericsLinq.pdb
+C:\New folder (2)\Training d\C-Sharp\Lab 19\GenericsLinq\GenericsLinq\obj\Debug\netcoreapp3.1\GenericsLinq.genruntimeconfig.cache
