@@ -1,0 +1,13 @@
+C:\Training\Day9 24-03-2021\demo\demo\bin\Debug\netcoreapp3.1\demo.exe
+C:\Training\Day9 24-03-2021\demo\demo\bin\Debug\netcoreapp3.1\demo.deps.json
+C:\Training\Day9 24-03-2021\demo\demo\bin\Debug\netcoreapp3.1\demo.runtimeconfig.json
+C:\Training\Day9 24-03-2021\demo\demo\bin\Debug\netcoreapp3.1\demo.runtimeconfig.dev.json
+C:\Training\Day9 24-03-2021\demo\demo\bin\Debug\netcoreapp3.1\demo.dll
+C:\Training\Day9 24-03-2021\demo\demo\bin\Debug\netcoreapp3.1\demo.pdb
+C:\Training\Day9 24-03-2021\demo\demo\obj\Debug\netcoreapp3.1\demo.AssemblyInfoInputs.cache
+C:\Training\Day9 24-03-2021\demo\demo\obj\Debug\netcoreapp3.1\demo.AssemblyInfo.cs
+C:\Training\Day9 24-03-2021\demo\demo\obj\Debug\netcoreapp3.1\demo.csproj.CoreCompileInputs.cache
+C:\Training\Day9 24-03-2021\demo\demo\obj\Debug\netcoreapp3.1\demo.dll
+C:\Training\Day9 24-03-2021\demo\demo\obj\Debug\netcoreapp3.1\demo.pdb
+C:\Training\Day9 24-03-2021\demo\demo\obj\Debug\netcoreapp3.1\demo.genruntimeconfig.cache
+C:\Training\Day9 24-03-2021\demo\demo\obj\Debug\netcoreapp3.1\demo.csprojAssemblyReference.cache
