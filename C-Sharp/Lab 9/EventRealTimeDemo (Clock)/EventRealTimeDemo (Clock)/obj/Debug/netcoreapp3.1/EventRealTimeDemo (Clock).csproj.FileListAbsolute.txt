@@ -1,0 +1,13 @@
+C:\Training\Day9 24-03-2021\EventRealTimeDemo (Clock)\EventRealTimeDemo (Clock)\bin\Debug\netcoreapp3.1\EventRealTimeDemo (Clock).exe
+C:\Training\Day9 24-03-2021\EventRealTimeDemo (Clock)\EventRealTimeDemo (Clock)\bin\Debug\netcoreapp3.1\EventRealTimeDemo (Clock).deps.json
+C:\Training\Day9 24-03-2021\EventRealTimeDemo (Clock)\EventRealTimeDemo (Clock)\bin\Debug\netcoreapp3.1\EventRealTimeDemo (Clock).runtimeconfig.json
+C:\Training\Day9 24-03-2021\EventRealTimeDemo (Clock)\EventRealTimeDemo (Clock)\bin\Debug\netcoreapp3.1\EventRealTimeDemo (Clock).runtimeconfig.dev.json
+C:\Training\Day9 24-03-2021\EventRealTimeDemo (Clock)\EventRealTimeDemo (Clock)\bin\Debug\netcoreapp3.1\EventRealTimeDemo (Clock).dll
+C:\Training\Day9 24-03-2021\EventRealTimeDemo (Clock)\EventRealTimeDemo (Clock)\bin\Debug\netcoreapp3.1\EventRealTimeDemo (Clock).pdb
+C:\Training\Day9 24-03-2021\EventRealTimeDemo (Clock)\EventRealTimeDemo (Clock)\obj\Debug\netcoreapp3.1\EventRealTimeDemo (Clock).AssemblyInfoInputs.cache
+C:\Training\Day9 24-03-2021\EventRealTimeDemo (Clock)\EventRealTimeDemo (Clock)\obj\Debug\netcoreapp3.1\EventRealTimeDemo (Clock).AssemblyInfo.cs
+C:\Training\Day9 24-03-2021\EventRealTimeDemo (Clock)\EventRealTimeDemo (Clock)\obj\Debug\netcoreapp3.1\EventRealTimeDemo (Clock).csproj.CoreCompileInputs.cache
+C:\Training\Day9 24-03-2021\EventRealTimeDemo (Clock)\EventRealTimeDemo (Clock)\obj\Debug\netcoreapp3.1\EventRealTimeDemo (Clock).dll
+C:\Training\Day9 24-03-2021\EventRealTimeDemo (Clock)\EventRealTimeDemo (Clock)\obj\Debug\netcoreapp3.1\EventRealTimeDemo (Clock).pdb
+C:\Training\Day9 24-03-2021\EventRealTimeDemo (Clock)\EventRealTimeDemo (Clock)\obj\Debug\netcoreapp3.1\EventRealTimeDemo (Clock).genruntimeconfig.cache
+C:\Training\Day9 24-03-2021\EventRealTimeDemo (Clock)\EventRealTimeDemo (Clock)\obj\Debug\netcoreapp3.1\EventRealTimeDemo (Clock).csprojAssemblyReference.cache

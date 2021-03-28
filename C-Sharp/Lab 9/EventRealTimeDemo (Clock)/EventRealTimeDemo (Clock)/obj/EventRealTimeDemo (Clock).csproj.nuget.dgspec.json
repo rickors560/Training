@@ -1,0 +1,62 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\Training\\Day9 24-03-2021\\EventRealTimeDemo (Clock)\\EventRealTimeDemo (Clock)\\EventRealTimeDemo (Clock).csproj": {}
+  },
+  "projects": {
+    "C:\\Training\\Day9 24-03-2021\\EventRealTimeDemo (Clock)\\EventRealTimeDemo (Clock)\\EventRealTimeDemo (Clock).csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Training\\Day9 24-03-2021\\EventRealTimeDemo (Clock)\\EventRealTimeDemo (Clock)\\EventRealTimeDemo (Clock).csproj",
+        "projectName": "EventRealTimeDemo (Clock)",
+        "projectPath": "C:\\Training\\Day9 24-03-2021\\EventRealTimeDemo (Clock)\\EventRealTimeDemo (Clock)\\EventRealTimeDemo (Clock).csproj",
+        "packagesPath": "C:\\Users\\ritik.sharma\\.nuget\\packages\\",
+        "outputPath": "C:\\Training\\Day9 24-03-2021\\EventRealTimeDemo (Clock)\\EventRealTimeDemo (Clock)\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\ritik.sharma\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.1"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.1": {
+            "targetAlias": "netcoreapp3.1",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "targetAlias": "netcoreapp3.1",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.201\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}
