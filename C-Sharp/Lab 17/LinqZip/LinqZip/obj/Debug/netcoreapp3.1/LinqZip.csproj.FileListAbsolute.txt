@@ -1,0 +1,12 @@
+C:\New folder (2)\Training d\C-Sharp\Lab 17\LinqZip\LinqZip\bin\Debug\netcoreapp3.1\LinqZip.exe
+C:\New folder (2)\Training d\C-Sharp\Lab 17\LinqZip\LinqZip\bin\Debug\netcoreapp3.1\LinqZip.deps.json
+C:\New folder (2)\Training d\C-Sharp\Lab 17\LinqZip\LinqZip\bin\Debug\netcoreapp3.1\LinqZip.runtimeconfig.json
+C:\New folder (2)\Training d\C-Sharp\Lab 17\LinqZip\LinqZip\bin\Debug\netcoreapp3.1\LinqZip.runtimeconfig.dev.json
+C:\New folder (2)\Training d\C-Sharp\Lab 17\LinqZip\LinqZip\bin\Debug\netcoreapp3.1\LinqZip.dll
+C:\New folder (2)\Training d\C-Sharp\Lab 17\LinqZip\LinqZip\bin\Debug\netcoreapp3.1\LinqZip.pdb
+C:\New folder (2)\Training d\C-Sharp\Lab 17\LinqZip\LinqZip\obj\Debug\netcoreapp3.1\LinqZip.AssemblyInfoInputs.cache
+C:\New folder (2)\Training d\C-Sharp\Lab 17\LinqZip\LinqZip\obj\Debug\netcoreapp3.1\LinqZip.AssemblyInfo.cs
+C:\New folder (2)\Training d\C-Sharp\Lab 17\LinqZip\LinqZip\obj\Debug\netcoreapp3.1\LinqZip.csproj.CoreCompileInputs.cache
+C:\New folder (2)\Training d\C-Sharp\Lab 17\LinqZip\LinqZip\obj\Debug\netcoreapp3.1\LinqZip.dll
+C:\New folder (2)\Training d\C-Sharp\Lab 17\LinqZip\LinqZip\obj\Debug\netcoreapp3.1\LinqZip.pdb
+C:\New folder (2)\Training d\C-Sharp\Lab 17\LinqZip\LinqZip\obj\Debug\netcoreapp3.1\LinqZip.genruntimeconfig.cache
