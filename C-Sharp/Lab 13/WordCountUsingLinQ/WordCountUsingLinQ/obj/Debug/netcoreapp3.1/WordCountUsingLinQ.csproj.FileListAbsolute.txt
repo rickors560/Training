@@ -1,0 +1,12 @@
+C:\Training\Day11 26-03-2021\WordCountUsingLinQ\WordCountUsingLinQ\bin\Debug\netcoreapp3.1\WordCountUsingLinQ.exe
+C:\Training\Day11 26-03-2021\WordCountUsingLinQ\WordCountUsingLinQ\bin\Debug\netcoreapp3.1\WordCountUsingLinQ.deps.json
+C:\Training\Day11 26-03-2021\WordCountUsingLinQ\WordCountUsingLinQ\bin\Debug\netcoreapp3.1\WordCountUsingLinQ.runtimeconfig.json
+C:\Training\Day11 26-03-2021\WordCountUsingLinQ\WordCountUsingLinQ\bin\Debug\netcoreapp3.1\WordCountUsingLinQ.runtimeconfig.dev.json
+C:\Training\Day11 26-03-2021\WordCountUsingLinQ\WordCountUsingLinQ\bin\Debug\netcoreapp3.1\WordCountUsingLinQ.dll
+C:\Training\Day11 26-03-2021\WordCountUsingLinQ\WordCountUsingLinQ\bin\Debug\netcoreapp3.1\WordCountUsingLinQ.pdb
+C:\Training\Day11 26-03-2021\WordCountUsingLinQ\WordCountUsingLinQ\obj\Debug\netcoreapp3.1\WordCountUsingLinQ.AssemblyInfoInputs.cache
+C:\Training\Day11 26-03-2021\WordCountUsingLinQ\WordCountUsingLinQ\obj\Debug\netcoreapp3.1\WordCountUsingLinQ.AssemblyInfo.cs
+C:\Training\Day11 26-03-2021\WordCountUsingLinQ\WordCountUsingLinQ\obj\Debug\netcoreapp3.1\WordCountUsingLinQ.csproj.CoreCompileInputs.cache
+C:\Training\Day11 26-03-2021\WordCountUsingLinQ\WordCountUsingLinQ\obj\Debug\netcoreapp3.1\WordCountUsingLinQ.dll
+C:\Training\Day11 26-03-2021\WordCountUsingLinQ\WordCountUsingLinQ\obj\Debug\netcoreapp3.1\WordCountUsingLinQ.pdb
+C:\Training\Day11 26-03-2021\WordCountUsingLinQ\WordCountUsingLinQ\obj\Debug\netcoreapp3.1\WordCountUsingLinQ.genruntimeconfig.cache
