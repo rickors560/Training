@@ -1,0 +1,13 @@
+C:\Training\Day9 24-03-2021\RealTimeDelegateDemo\RealTimeDelegateDemo\bin\Debug\netcoreapp3.1\RealTimeDelegateDemo.exe
+C:\Training\Day9 24-03-2021\RealTimeDelegateDemo\RealTimeDelegateDemo\bin\Debug\netcoreapp3.1\RealTimeDelegateDemo.deps.json
+C:\Training\Day9 24-03-2021\RealTimeDelegateDemo\RealTimeDelegateDemo\bin\Debug\netcoreapp3.1\RealTimeDelegateDemo.runtimeconfig.json
+C:\Training\Day9 24-03-2021\RealTimeDelegateDemo\RealTimeDelegateDemo\bin\Debug\netcoreapp3.1\RealTimeDelegateDemo.runtimeconfig.dev.json
+C:\Training\Day9 24-03-2021\RealTimeDelegateDemo\RealTimeDelegateDemo\bin\Debug\netcoreapp3.1\RealTimeDelegateDemo.dll
+C:\Training\Day9 24-03-2021\RealTimeDelegateDemo\RealTimeDelegateDemo\bin\Debug\netcoreapp3.1\RealTimeDelegateDemo.pdb
+C:\Training\Day9 24-03-2021\RealTimeDelegateDemo\RealTimeDelegateDemo\obj\Debug\netcoreapp3.1\RealTimeDelegateDemo.AssemblyInfoInputs.cache
+C:\Training\Day9 24-03-2021\RealTimeDelegateDemo\RealTimeDelegateDemo\obj\Debug\netcoreapp3.1\RealTimeDelegateDemo.AssemblyInfo.cs
+C:\Training\Day9 24-03-2021\RealTimeDelegateDemo\RealTimeDelegateDemo\obj\Debug\netcoreapp3.1\RealTimeDelegateDemo.csproj.CoreCompileInputs.cache
+C:\Training\Day9 24-03-2021\RealTimeDelegateDemo\RealTimeDelegateDemo\obj\Debug\netcoreapp3.1\RealTimeDelegateDemo.dll
+C:\Training\Day9 24-03-2021\RealTimeDelegateDemo\RealTimeDelegateDemo\obj\Debug\netcoreapp3.1\RealTimeDelegateDemo.pdb
+C:\Training\Day9 24-03-2021\RealTimeDelegateDemo\RealTimeDelegateDemo\obj\Debug\netcoreapp3.1\RealTimeDelegateDemo.genruntimeconfig.cache
+C:\Training\Day9 24-03-2021\RealTimeDelegateDemo\RealTimeDelegateDemo\obj\Debug\netcoreapp3.1\RealTimeDelegateDemo.csprojAssemblyReference.cache
