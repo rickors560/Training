@@ -1,0 +1,16 @@
+C:\Training\Day5 19-03-2021\ConsoleApp1\ClassLibrary1\bin\Debug\netcoreapp3.1\ClassLibrary1.deps.json
+C:\Training\Day5 19-03-2021\ConsoleApp1\ClassLibrary1\bin\Debug\netcoreapp3.1\ClassLibrary1.dll
+C:\Training\Day5 19-03-2021\ConsoleApp1\ClassLibrary1\bin\Debug\netcoreapp3.1\ClassLibrary1.pdb
+C:\Training\Day5 19-03-2021\ConsoleApp1\ClassLibrary1\obj\Debug\netcoreapp3.1\ClassLibrary1.AssemblyInfoInputs.cache
+C:\Training\Day5 19-03-2021\ConsoleApp1\ClassLibrary1\obj\Debug\netcoreapp3.1\ClassLibrary1.AssemblyInfo.cs
+C:\Training\Day5 19-03-2021\ConsoleApp1\ClassLibrary1\obj\Debug\netcoreapp3.1\ClassLibrary1.csproj.CoreCompileInputs.cache
+C:\Training\Day5 19-03-2021\ConsoleApp1\ClassLibrary1\obj\Debug\netcoreapp3.1\ClassLibrary1.dll
+C:\Training\Day5 19-03-2021\ConsoleApp1\ClassLibrary1\obj\Debug\netcoreapp3.1\ClassLibrary1.pdb
+C:\New folder (2)\Training d\C-Sharp\Day5 19-03-2021\ConsoleApp1\ClassLibrary1\bin\Debug\netcoreapp3.1\ClassLibrary1.deps.json
+C:\New folder (2)\Training d\C-Sharp\Day5 19-03-2021\ConsoleApp1\ClassLibrary1\bin\Debug\netcoreapp3.1\ClassLibrary1.dll
+C:\New folder (2)\Training d\C-Sharp\Day5 19-03-2021\ConsoleApp1\ClassLibrary1\bin\Debug\netcoreapp3.1\ClassLibrary1.pdb
+C:\New folder (2)\Training d\C-Sharp\Day5 19-03-2021\ConsoleApp1\ClassLibrary1\obj\Debug\netcoreapp3.1\ClassLibrary1.AssemblyInfoInputs.cache
+C:\New folder (2)\Training d\C-Sharp\Day5 19-03-2021\ConsoleApp1\ClassLibrary1\obj\Debug\netcoreapp3.1\ClassLibrary1.AssemblyInfo.cs
+C:\New folder (2)\Training d\C-Sharp\Day5 19-03-2021\ConsoleApp1\ClassLibrary1\obj\Debug\netcoreapp3.1\ClassLibrary1.csproj.CoreCompileInputs.cache
+C:\New folder (2)\Training d\C-Sharp\Day5 19-03-2021\ConsoleApp1\ClassLibrary1\obj\Debug\netcoreapp3.1\ClassLibrary1.dll
+C:\New folder (2)\Training d\C-Sharp\Day5 19-03-2021\ConsoleApp1\ClassLibrary1\obj\Debug\netcoreapp3.1\ClassLibrary1.pdb
