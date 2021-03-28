@@ -1,0 +1,36 @@
+C:\Training\Day8 23-03-2021\Ritik\ConsoleApp\bin\Debug\netcoreapp3.1\ConsoleApp.exe
+C:\Training\Day8 23-03-2021\Ritik\ConsoleApp\bin\Debug\netcoreapp3.1\ConsoleApp.deps.json
+C:\Training\Day8 23-03-2021\Ritik\ConsoleApp\bin\Debug\netcoreapp3.1\ConsoleApp.runtimeconfig.json
+C:\Training\Day8 23-03-2021\Ritik\ConsoleApp\bin\Debug\netcoreapp3.1\ConsoleApp.runtimeconfig.dev.json
+C:\Training\Day8 23-03-2021\Ritik\ConsoleApp\bin\Debug\netcoreapp3.1\ConsoleApp.dll
+C:\Training\Day8 23-03-2021\Ritik\ConsoleApp\bin\Debug\netcoreapp3.1\ConsoleApp.pdb
+C:\Training\Day8 23-03-2021\Ritik\ConsoleApp\bin\Debug\netcoreapp3.1\core.dll
+C:\Training\Day8 23-03-2021\Ritik\ConsoleApp\bin\Debug\netcoreapp3.1\infrastructure.dll
+C:\Training\Day8 23-03-2021\Ritik\ConsoleApp\bin\Debug\netcoreapp3.1\core.pdb
+C:\Training\Day8 23-03-2021\Ritik\ConsoleApp\bin\Debug\netcoreapp3.1\infrastructure.pdb
+C:\Training\Day8 23-03-2021\Ritik\ConsoleApp\obj\Debug\netcoreapp3.1\ConsoleApp.csprojAssemblyReference.cache
+C:\Training\Day8 23-03-2021\Ritik\ConsoleApp\obj\Debug\netcoreapp3.1\ConsoleApp.AssemblyInfoInputs.cache
+C:\Training\Day8 23-03-2021\Ritik\ConsoleApp\obj\Debug\netcoreapp3.1\ConsoleApp.AssemblyInfo.cs
+C:\Training\Day8 23-03-2021\Ritik\ConsoleApp\obj\Debug\netcoreapp3.1\ConsoleApp.csproj.CoreCompileInputs.cache
+C:\Training\Day8 23-03-2021\Ritik\ConsoleApp\obj\Debug\netcoreapp3.1\ConsoleApp.csproj.CopyComplete
+C:\Training\Day8 23-03-2021\Ritik\ConsoleApp\obj\Debug\netcoreapp3.1\ConsoleApp.dll
+C:\Training\Day8 23-03-2021\Ritik\ConsoleApp\obj\Debug\netcoreapp3.1\ConsoleApp.pdb
+C:\Training\Day8 23-03-2021\Ritik\ConsoleApp\obj\Debug\netcoreapp3.1\ConsoleApp.genruntimeconfig.cache
+C:\New folder (2)\Training d\C-Sharp\Day8 23-03-2021\Ritik\ConsoleApp\bin\Debug\netcoreapp3.1\ConsoleApp.exe
+C:\New folder (2)\Training d\C-Sharp\Day8 23-03-2021\Ritik\ConsoleApp\bin\Debug\netcoreapp3.1\ConsoleApp.deps.json
+C:\New folder (2)\Training d\C-Sharp\Day8 23-03-2021\Ritik\ConsoleApp\bin\Debug\netcoreapp3.1\ConsoleApp.runtimeconfig.json
+C:\New folder (2)\Training d\C-Sharp\Day8 23-03-2021\Ritik\ConsoleApp\bin\Debug\netcoreapp3.1\ConsoleApp.runtimeconfig.dev.json
+C:\New folder (2)\Training d\C-Sharp\Day8 23-03-2021\Ritik\ConsoleApp\bin\Debug\netcoreapp3.1\ConsoleApp.dll
+C:\New folder (2)\Training d\C-Sharp\Day8 23-03-2021\Ritik\ConsoleApp\bin\Debug\netcoreapp3.1\ConsoleApp.pdb
+C:\New folder (2)\Training d\C-Sharp\Day8 23-03-2021\Ritik\ConsoleApp\bin\Debug\netcoreapp3.1\core.dll
+C:\New folder (2)\Training d\C-Sharp\Day8 23-03-2021\Ritik\ConsoleApp\bin\Debug\netcoreapp3.1\infrastructure.dll
+C:\New folder (2)\Training d\C-Sharp\Day8 23-03-2021\Ritik\ConsoleApp\bin\Debug\netcoreapp3.1\core.pdb
+C:\New folder (2)\Training d\C-Sharp\Day8 23-03-2021\Ritik\ConsoleApp\bin\Debug\netcoreapp3.1\infrastructure.pdb
+C:\New folder (2)\Training d\C-Sharp\Day8 23-03-2021\Ritik\ConsoleApp\obj\Debug\netcoreapp3.1\ConsoleApp.csprojAssemblyReference.cache
+C:\New folder (2)\Training d\C-Sharp\Day8 23-03-2021\Ritik\ConsoleApp\obj\Debug\netcoreapp3.1\ConsoleApp.AssemblyInfoInputs.cache
+C:\New folder (2)\Training d\C-Sharp\Day8 23-03-2021\Ritik\ConsoleApp\obj\Debug\netcoreapp3.1\ConsoleApp.AssemblyInfo.cs
+C:\New folder (2)\Training d\C-Sharp\Day8 23-03-2021\Ritik\ConsoleApp\obj\Debug\netcoreapp3.1\ConsoleApp.csproj.CoreCompileInputs.cache
+C:\New folder (2)\Training d\C-Sharp\Day8 23-03-2021\Ritik\ConsoleApp\obj\Debug\netcoreapp3.1\ConsoleApp.csproj.CopyComplete
+C:\New folder (2)\Training d\C-Sharp\Day8 23-03-2021\Ritik\ConsoleApp\obj\Debug\netcoreapp3.1\ConsoleApp.dll
+C:\New folder (2)\Training d\C-Sharp\Day8 23-03-2021\Ritik\ConsoleApp\obj\Debug\netcoreapp3.1\ConsoleApp.pdb
+C:\New folder (2)\Training d\C-Sharp\Day8 23-03-2021\Ritik\ConsoleApp\obj\Debug\netcoreapp3.1\ConsoleApp.genruntimeconfig.cache

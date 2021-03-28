@@ -1,0 +1,17 @@
+C:\Training\Day8 23-03-2021\Ritik\core\bin\Debug\netcoreapp3.1\core.deps.json
+C:\Training\Day8 23-03-2021\Ritik\core\bin\Debug\netcoreapp3.1\core.dll
+C:\Training\Day8 23-03-2021\Ritik\core\bin\Debug\netcoreapp3.1\core.pdb
+C:\Training\Day8 23-03-2021\Ritik\core\obj\Debug\netcoreapp3.1\core.AssemblyInfoInputs.cache
+C:\Training\Day8 23-03-2021\Ritik\core\obj\Debug\netcoreapp3.1\core.AssemblyInfo.cs
+C:\Training\Day8 23-03-2021\Ritik\core\obj\Debug\netcoreapp3.1\core.csproj.CoreCompileInputs.cache
+C:\Training\Day8 23-03-2021\Ritik\core\obj\Debug\netcoreapp3.1\core.dll
+C:\Training\Day8 23-03-2021\Ritik\core\obj\Debug\netcoreapp3.1\core.pdb
+C:\New folder (2)\Training d\C-Sharp\Day8 23-03-2021\Ritik\core\bin\Debug\netcoreapp3.1\core.deps.json
+C:\New folder (2)\Training d\C-Sharp\Day8 23-03-2021\Ritik\core\bin\Debug\netcoreapp3.1\core.dll
+C:\New folder (2)\Training d\C-Sharp\Day8 23-03-2021\Ritik\core\bin\Debug\netcoreapp3.1\core.pdb
+C:\New folder (2)\Training d\C-Sharp\Day8 23-03-2021\Ritik\core\obj\Debug\netcoreapp3.1\core.csprojAssemblyReference.cache
+C:\New folder (2)\Training d\C-Sharp\Day8 23-03-2021\Ritik\core\obj\Debug\netcoreapp3.1\core.AssemblyInfoInputs.cache
+C:\New folder (2)\Training d\C-Sharp\Day8 23-03-2021\Ritik\core\obj\Debug\netcoreapp3.1\core.AssemblyInfo.cs
+C:\New folder (2)\Training d\C-Sharp\Day8 23-03-2021\Ritik\core\obj\Debug\netcoreapp3.1\core.csproj.CoreCompileInputs.cache
+C:\New folder (2)\Training d\C-Sharp\Day8 23-03-2021\Ritik\core\obj\Debug\netcoreapp3.1\core.dll
+C:\New folder (2)\Training d\C-Sharp\Day8 23-03-2021\Ritik\core\obj\Debug\netcoreapp3.1\core.pdb

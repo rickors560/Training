@@ -1,0 +1,24 @@
+C:\Training\Day8 23-03-2021\Ritik\infrastructure\bin\Debug\netcoreapp3.1\infrastructure.deps.json
+C:\Training\Day8 23-03-2021\Ritik\infrastructure\bin\Debug\netcoreapp3.1\infrastructure.dll
+C:\Training\Day8 23-03-2021\Ritik\infrastructure\bin\Debug\netcoreapp3.1\infrastructure.pdb
+C:\Training\Day8 23-03-2021\Ritik\infrastructure\bin\Debug\netcoreapp3.1\core.dll
+C:\Training\Day8 23-03-2021\Ritik\infrastructure\bin\Debug\netcoreapp3.1\core.pdb
+C:\Training\Day8 23-03-2021\Ritik\infrastructure\obj\Debug\netcoreapp3.1\infrastructure.csprojAssemblyReference.cache
+C:\Training\Day8 23-03-2021\Ritik\infrastructure\obj\Debug\netcoreapp3.1\infrastructure.AssemblyInfoInputs.cache
+C:\Training\Day8 23-03-2021\Ritik\infrastructure\obj\Debug\netcoreapp3.1\infrastructure.AssemblyInfo.cs
+C:\Training\Day8 23-03-2021\Ritik\infrastructure\obj\Debug\netcoreapp3.1\infrastructure.csproj.CoreCompileInputs.cache
+C:\Training\Day8 23-03-2021\Ritik\infrastructure\obj\Debug\netcoreapp3.1\infrastructure.csproj.CopyComplete
+C:\Training\Day8 23-03-2021\Ritik\infrastructure\obj\Debug\netcoreapp3.1\infrastructure.dll
+C:\Training\Day8 23-03-2021\Ritik\infrastructure\obj\Debug\netcoreapp3.1\infrastructure.pdb
+C:\New folder (2)\Training d\C-Sharp\Day8 23-03-2021\Ritik\infrastructure\bin\Debug\netcoreapp3.1\infrastructure.deps.json
+C:\New folder (2)\Training d\C-Sharp\Day8 23-03-2021\Ritik\infrastructure\bin\Debug\netcoreapp3.1\infrastructure.dll
+C:\New folder (2)\Training d\C-Sharp\Day8 23-03-2021\Ritik\infrastructure\bin\Debug\netcoreapp3.1\infrastructure.pdb
+C:\New folder (2)\Training d\C-Sharp\Day8 23-03-2021\Ritik\infrastructure\bin\Debug\netcoreapp3.1\core.dll
+C:\New folder (2)\Training d\C-Sharp\Day8 23-03-2021\Ritik\infrastructure\bin\Debug\netcoreapp3.1\core.pdb
+C:\New folder (2)\Training d\C-Sharp\Day8 23-03-2021\Ritik\infrastructure\obj\Debug\netcoreapp3.1\infrastructure.csprojAssemblyReference.cache
+C:\New folder (2)\Training d\C-Sharp\Day8 23-03-2021\Ritik\infrastructure\obj\Debug\netcoreapp3.1\infrastructure.AssemblyInfoInputs.cache
+C:\New folder (2)\Training d\C-Sharp\Day8 23-03-2021\Ritik\infrastructure\obj\Debug\netcoreapp3.1\infrastructure.AssemblyInfo.cs
+C:\New folder (2)\Training d\C-Sharp\Day8 23-03-2021\Ritik\infrastructure\obj\Debug\netcoreapp3.1\infrastructure.csproj.CoreCompileInputs.cache
+C:\New folder (2)\Training d\C-Sharp\Day8 23-03-2021\Ritik\infrastructure\obj\Debug\netcoreapp3.1\infrastructure.csproj.CopyComplete
+C:\New folder (2)\Training d\C-Sharp\Day8 23-03-2021\Ritik\infrastructure\obj\Debug\netcoreapp3.1\infrastructure.dll
+C:\New folder (2)\Training d\C-Sharp\Day8 23-03-2021\Ritik\infrastructure\obj\Debug\netcoreapp3.1\infrastructure.pdb

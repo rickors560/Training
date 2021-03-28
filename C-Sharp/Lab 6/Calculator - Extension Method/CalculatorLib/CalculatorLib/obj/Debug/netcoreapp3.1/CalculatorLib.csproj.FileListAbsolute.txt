@@ -1,0 +1,8 @@
+C:\Training\Day8 23-03-2021\CalculatorLib\CalculatorLib\bin\Debug\netcoreapp3.1\CalculatorLib.deps.json
+C:\Training\Day8 23-03-2021\CalculatorLib\CalculatorLib\bin\Debug\netcoreapp3.1\CalculatorLib.dll
+C:\Training\Day8 23-03-2021\CalculatorLib\CalculatorLib\bin\Debug\netcoreapp3.1\CalculatorLib.pdb
+C:\Training\Day8 23-03-2021\CalculatorLib\CalculatorLib\obj\Debug\netcoreapp3.1\CalculatorLib.AssemblyInfoInputs.cache
+C:\Training\Day8 23-03-2021\CalculatorLib\CalculatorLib\obj\Debug\netcoreapp3.1\CalculatorLib.AssemblyInfo.cs
+C:\Training\Day8 23-03-2021\CalculatorLib\CalculatorLib\obj\Debug\netcoreapp3.1\CalculatorLib.csproj.CoreCompileInputs.cache
+C:\Training\Day8 23-03-2021\CalculatorLib\CalculatorLib\obj\Debug\netcoreapp3.1\CalculatorLib.dll
+C:\Training\Day8 23-03-2021\CalculatorLib\CalculatorLib\obj\Debug\netcoreapp3.1\CalculatorLib.pdb
