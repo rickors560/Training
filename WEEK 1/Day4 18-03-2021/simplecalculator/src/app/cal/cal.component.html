@@ -1,0 +1,54 @@
+<div class='row'>
+    <div class=" col-md-4">
+        <input type="number" class="form-control" [(ngModel)]='a'>
+    </div>
+    <div class=" col-md-1">
+        <p>{{op}}</p>
+    </div>
+    <div class=" col-md-4">
+        <input type="number" class="form-control " [(ngModel)]='b'>
+    </div>
+    <div class=" col-md-1">
+        =
+    </div>
+    <div class=" col-md-2">
+        <p>{{res}}</p>
+    </div>
+</div>
+<br/><br/>
+<div class='row'>
+    <div class=" col-md-4">
+        <button class="btn btn-warning form-control" [style.height.px] = 'h' [style.width.px] = 'w' (click)='add_n()'>+</button>
+    </div>
+    <div class=" col-md-4">
+        <button class="btn btn-warning form-control" [style.height.px] = 'h' [style.width.px] = 'w'(click)='sub_n()'>-</button>
+    </div>
+    <div class=" col-md-4">
+        <button class="btn btn-warning form-control"[style.height.px] = 'h' [style.width.px] = 'w'(click)='mul_n()'>*</button>
+    </div> 
+</div>
+<br/><br/>
+<div class='row'>
+    <div class=" col-md-4">
+        <button class="btn btn-warning form-control"[style.height.px] = 'h' [style.width.px] = 'w'(click)='mod_n()'>%</button>
+    </div>
+    <div class=" col-md-4">
+        <button class="btn btn-warning form-control"[style.height.px] = 'h' [style.width.px] = 'w'(click)='div_n()'>/</button>
+    </div>
+    <div class=" col-md-4">
+        <input type="number" class="form-control" [(ngModel)]='h'>
+    </div> 
+</div>
+<br/><br/>
+<div class='row'>
+    <div class=" col-md-4">
+        <button class="btn btn-warning form-control"[style.height.px] = 'h' [style.width.px] = 'w'(click)='clear()'>C</button>
+    </div>
+    <div class=" col-md-4">
+        <button class="btn btn-warning form-control"[style.height.px] = 'h' [style.width.px] = 'w'(click)='go()'>Go</button>
+    </div>
+    <div class=" col-md-4">
+        <input type="number" class="form-control"  [(ngModel)]='w'>
+    </div> 
+</div>
+

@@ -1,0 +1,26 @@
+<hr>
+<div class="row">
+    <table class="table">
+        <thead>
+            <tr>
+                <th>Id</th>
+                <th>Title</th>
+                <th>Price</th>
+                <th>Color</th>
+                <th>Date</th>
+            </tr>
+        </thead>
+        <tbody>
+            <tr *ngFor = 'let p of ps'>
+                <td>{{p.Id}}</td>
+                <td>{{p.Title}}</td>
+                <td>{{p.Price | currency}}</td>
+                <td>{{p.Color}}</td>
+                <td>{{p.ExpiryDate | date}}</td>
+                <td> <button class="button alert" style="background: rgb(198, 236, 61);">Edit</button>
+                    <button class="button alert" style="background: rgb(173, 41, 41);">Delete</button>
+                </td>
+            </tr>
+        </tbody>
+    </table>
+</div>
