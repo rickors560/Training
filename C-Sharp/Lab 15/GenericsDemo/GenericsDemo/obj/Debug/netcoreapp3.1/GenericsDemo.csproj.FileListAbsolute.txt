@@ -1,0 +1,13 @@
+C:\Training\Day11 26-03-2021\GenericsDemo\GenericsDemo\bin\Debug\netcoreapp3.1\GenericsDemo.exe
+C:\Training\Day11 26-03-2021\GenericsDemo\GenericsDemo\bin\Debug\netcoreapp3.1\GenericsDemo.deps.json
+C:\Training\Day11 26-03-2021\GenericsDemo\GenericsDemo\bin\Debug\netcoreapp3.1\GenericsDemo.runtimeconfig.json
+C:\Training\Day11 26-03-2021\GenericsDemo\GenericsDemo\bin\Debug\netcoreapp3.1\GenericsDemo.runtimeconfig.dev.json
+C:\Training\Day11 26-03-2021\GenericsDemo\GenericsDemo\bin\Debug\netcoreapp3.1\GenericsDemo.dll
+C:\Training\Day11 26-03-2021\GenericsDemo\GenericsDemo\bin\Debug\netcoreapp3.1\GenericsDemo.pdb
+C:\Training\Day11 26-03-2021\GenericsDemo\GenericsDemo\obj\Debug\netcoreapp3.1\GenericsDemo.AssemblyInfoInputs.cache
+C:\Training\Day11 26-03-2021\GenericsDemo\GenericsDemo\obj\Debug\netcoreapp3.1\GenericsDemo.AssemblyInfo.cs
+C:\Training\Day11 26-03-2021\GenericsDemo\GenericsDemo\obj\Debug\netcoreapp3.1\GenericsDemo.csproj.CoreCompileInputs.cache
+C:\Training\Day11 26-03-2021\GenericsDemo\GenericsDemo\obj\Debug\netcoreapp3.1\GenericsDemo.dll
+C:\Training\Day11 26-03-2021\GenericsDemo\GenericsDemo\obj\Debug\netcoreapp3.1\GenericsDemo.pdb
+C:\Training\Day11 26-03-2021\GenericsDemo\GenericsDemo\obj\Debug\netcoreapp3.1\GenericsDemo.genruntimeconfig.cache
+C:\Training\Day11 26-03-2021\GenericsDemo\GenericsDemo\obj\Debug\netcoreapp3.1\GenericsDemo.csprojAssemblyReference.cache
