@@ -1,0 +1,25 @@
+C:\Training\Day11 26-03-2021\SimpleExpressionTree\SimpleExpressionTree\bin\Debug\netcoreapp3.1\SimpleExpressionTree.exe
+C:\Training\Day11 26-03-2021\SimpleExpressionTree\SimpleExpressionTree\bin\Debug\netcoreapp3.1\SimpleExpressionTree.deps.json
+C:\Training\Day11 26-03-2021\SimpleExpressionTree\SimpleExpressionTree\bin\Debug\netcoreapp3.1\SimpleExpressionTree.runtimeconfig.json
+C:\Training\Day11 26-03-2021\SimpleExpressionTree\SimpleExpressionTree\bin\Debug\netcoreapp3.1\SimpleExpressionTree.runtimeconfig.dev.json
+C:\Training\Day11 26-03-2021\SimpleExpressionTree\SimpleExpressionTree\bin\Debug\netcoreapp3.1\SimpleExpressionTree.dll
+C:\Training\Day11 26-03-2021\SimpleExpressionTree\SimpleExpressionTree\bin\Debug\netcoreapp3.1\SimpleExpressionTree.pdb
+C:\Training\Day11 26-03-2021\SimpleExpressionTree\SimpleExpressionTree\obj\Debug\netcoreapp3.1\SimpleExpressionTree.csprojAssemblyReference.cache
+C:\Training\Day11 26-03-2021\SimpleExpressionTree\SimpleExpressionTree\obj\Debug\netcoreapp3.1\SimpleExpressionTree.AssemblyInfoInputs.cache
+C:\Training\Day11 26-03-2021\SimpleExpressionTree\SimpleExpressionTree\obj\Debug\netcoreapp3.1\SimpleExpressionTree.AssemblyInfo.cs
+C:\Training\Day11 26-03-2021\SimpleExpressionTree\SimpleExpressionTree\obj\Debug\netcoreapp3.1\SimpleExpressionTree.csproj.CoreCompileInputs.cache
+C:\Training\Day11 26-03-2021\SimpleExpressionTree\SimpleExpressionTree\obj\Debug\netcoreapp3.1\SimpleExpressionTree.dll
+C:\Training\Day11 26-03-2021\SimpleExpressionTree\SimpleExpressionTree\obj\Debug\netcoreapp3.1\SimpleExpressionTree.pdb
+C:\Training\Day11 26-03-2021\SimpleExpressionTree\SimpleExpressionTree\obj\Debug\netcoreapp3.1\SimpleExpressionTree.genruntimeconfig.cache
+C:\New folder (2)\Training d\C-Sharp\Day11 26-03-2021\SimpleExpressionTree\SimpleExpressionTree\bin\Debug\netcoreapp3.1\SimpleExpressionTree.exe
+C:\New folder (2)\Training d\C-Sharp\Day11 26-03-2021\SimpleExpressionTree\SimpleExpressionTree\bin\Debug\netcoreapp3.1\SimpleExpressionTree.deps.json
+C:\New folder (2)\Training d\C-Sharp\Day11 26-03-2021\SimpleExpressionTree\SimpleExpressionTree\bin\Debug\netcoreapp3.1\SimpleExpressionTree.runtimeconfig.json
+C:\New folder (2)\Training d\C-Sharp\Day11 26-03-2021\SimpleExpressionTree\SimpleExpressionTree\bin\Debug\netcoreapp3.1\SimpleExpressionTree.runtimeconfig.dev.json
+C:\New folder (2)\Training d\C-Sharp\Day11 26-03-2021\SimpleExpressionTree\SimpleExpressionTree\bin\Debug\netcoreapp3.1\SimpleExpressionTree.dll
+C:\New folder (2)\Training d\C-Sharp\Day11 26-03-2021\SimpleExpressionTree\SimpleExpressionTree\bin\Debug\netcoreapp3.1\SimpleExpressionTree.pdb
+C:\New folder (2)\Training d\C-Sharp\Day11 26-03-2021\SimpleExpressionTree\SimpleExpressionTree\obj\Debug\netcoreapp3.1\SimpleExpressionTree.AssemblyInfoInputs.cache
+C:\New folder (2)\Training d\C-Sharp\Day11 26-03-2021\SimpleExpressionTree\SimpleExpressionTree\obj\Debug\netcoreapp3.1\SimpleExpressionTree.AssemblyInfo.cs
+C:\New folder (2)\Training d\C-Sharp\Day11 26-03-2021\SimpleExpressionTree\SimpleExpressionTree\obj\Debug\netcoreapp3.1\SimpleExpressionTree.csproj.CoreCompileInputs.cache
+C:\New folder (2)\Training d\C-Sharp\Day11 26-03-2021\SimpleExpressionTree\SimpleExpressionTree\obj\Debug\netcoreapp3.1\SimpleExpressionTree.dll
+C:\New folder (2)\Training d\C-Sharp\Day11 26-03-2021\SimpleExpressionTree\SimpleExpressionTree\obj\Debug\netcoreapp3.1\SimpleExpressionTree.pdb
+C:\New folder (2)\Training d\C-Sharp\Day11 26-03-2021\SimpleExpressionTree\SimpleExpressionTree\obj\Debug\netcoreapp3.1\SimpleExpressionTree.genruntimeconfig.cache
