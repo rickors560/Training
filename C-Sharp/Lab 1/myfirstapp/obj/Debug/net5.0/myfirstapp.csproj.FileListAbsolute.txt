@@ -1,0 +1,16 @@
+C:\Training\Day5 19-03-2021\myfirstapp\bin\Debug\net5.0\myfirstapp.exe
+C:\Training\Day5 19-03-2021\myfirstapp\bin\Debug\net5.0\myfirstapp.deps.json
+C:\Training\Day5 19-03-2021\myfirstapp\bin\Debug\net5.0\myfirstapp.runtimeconfig.json
+C:\Training\Day5 19-03-2021\myfirstapp\bin\Debug\net5.0\myfirstapp.runtimeconfig.dev.json
+C:\Training\Day5 19-03-2021\myfirstapp\bin\Debug\net5.0\myfirstapp.dll
+C:\Training\Day5 19-03-2021\myfirstapp\bin\Debug\net5.0\ref\myfirstapp.dll
+C:\Training\Day5 19-03-2021\myfirstapp\bin\Debug\net5.0\myfirstapp.pdb
+C:\Training\Day5 19-03-2021\myfirstapp\obj\Debug\net5.0\myfirstapp.csprojAssemblyReference.cache
+C:\Training\Day5 19-03-2021\myfirstapp\obj\Debug\net5.0\myfirstapp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Training\Day5 19-03-2021\myfirstapp\obj\Debug\net5.0\myfirstapp.AssemblyInfoInputs.cache
+C:\Training\Day5 19-03-2021\myfirstapp\obj\Debug\net5.0\myfirstapp.AssemblyInfo.cs
+C:\Training\Day5 19-03-2021\myfirstapp\obj\Debug\net5.0\myfirstapp.csproj.CoreCompileInputs.cache
+C:\Training\Day5 19-03-2021\myfirstapp\obj\Debug\net5.0\myfirstapp.dll
+C:\Training\Day5 19-03-2021\myfirstapp\obj\Debug\net5.0\ref\myfirstapp.dll
+C:\Training\Day5 19-03-2021\myfirstapp\obj\Debug\net5.0\myfirstapp.pdb
+C:\Training\Day5 19-03-2021\myfirstapp\obj\Debug\net5.0\myfirstapp.genruntimeconfig.cache
