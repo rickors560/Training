@@ -1,0 +1,12 @@
+C:\Training\Day9 24-03-2021\DelegateDemo2\DelegateDemo2\obj\Debug\netcoreapp3.1\DelegateDemo2.AssemblyInfoInputs.cache
+C:\Training\Day9 24-03-2021\DelegateDemo2\DelegateDemo2\obj\Debug\netcoreapp3.1\DelegateDemo2.AssemblyInfo.cs
+C:\Training\Day9 24-03-2021\DelegateDemo2\DelegateDemo2\obj\Debug\netcoreapp3.1\DelegateDemo2.csproj.CoreCompileInputs.cache
+C:\Training\Day9 24-03-2021\DelegateDemo2\DelegateDemo2\bin\Debug\netcoreapp3.1\DelegateDemo2.exe
+C:\Training\Day9 24-03-2021\DelegateDemo2\DelegateDemo2\bin\Debug\netcoreapp3.1\DelegateDemo2.deps.json
+C:\Training\Day9 24-03-2021\DelegateDemo2\DelegateDemo2\bin\Debug\netcoreapp3.1\DelegateDemo2.runtimeconfig.json
+C:\Training\Day9 24-03-2021\DelegateDemo2\DelegateDemo2\bin\Debug\netcoreapp3.1\DelegateDemo2.runtimeconfig.dev.json
+C:\Training\Day9 24-03-2021\DelegateDemo2\DelegateDemo2\bin\Debug\netcoreapp3.1\DelegateDemo2.dll
+C:\Training\Day9 24-03-2021\DelegateDemo2\DelegateDemo2\bin\Debug\netcoreapp3.1\DelegateDemo2.pdb
+C:\Training\Day9 24-03-2021\DelegateDemo2\DelegateDemo2\obj\Debug\netcoreapp3.1\DelegateDemo2.dll
+C:\Training\Day9 24-03-2021\DelegateDemo2\DelegateDemo2\obj\Debug\netcoreapp3.1\DelegateDemo2.pdb
+C:\Training\Day9 24-03-2021\DelegateDemo2\DelegateDemo2\obj\Debug\netcoreapp3.1\DelegateDemo2.genruntimeconfig.cache
