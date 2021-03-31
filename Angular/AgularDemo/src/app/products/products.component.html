@@ -15,7 +15,7 @@
             <tr *ngFor = 'let p of products'>
                 <td>{{p.Id}}</td>
                 <td>{{p.Name}}</td>
-                <td>{{p.Price | currency}}</td>
+                <td>{{p.Price | currency : "INR"}}</td>
                 <td>{{p.ExpiryDate | date}}</td>
                 <td>{{p.Quantity}}</td>
                 <td>
