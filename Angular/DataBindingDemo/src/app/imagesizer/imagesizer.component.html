@@ -1,0 +1,13 @@
+<h1>Image Sizer</h1><br><hr>
+<br>
+Height : <input type="number" [(ngModel)]="h">
+<br>
+<br>
+<br>
+Width : <input type="number" [(ngModel)]="w">
+<br>
+<br>
+<br>
+<br>
+<img [src] = 'imgSource' [style.height.px] = 'h' [style.width.px] = 'w' (mouseenter) = 'onhover()' (mouseleave) = 'onhoverout()'>
+<br>
