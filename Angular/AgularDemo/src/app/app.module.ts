@@ -3,12 +3,14 @@ import { FormsModule } from '@angular/forms';
 import { BrowserModule } from '@angular/platform-browser';
 
 import { AppComponent } from './app.component';
-import { ImagesizerComponent } from './imagesizer/imagesizer.component';
+import { TShirtDemoComponent } from './t-shirt-demo/t-shirt-demo.component';
+import { ProductsComponent } from './products/products.component';
 
 @NgModule({
   declarations: [
     AppComponent,
-    ImagesizerComponent
+    TShirtDemoComponent,
+    ProductsComponent
   ],
   imports: [
     BrowserModule,

@@ -1,0 +1,19 @@
+<div class="container">
+  <h1 class = "text-center">{{title}}</h1>
+
+  <div class = "row">
+    
+    <div class = "col-md-3">
+      <button (click)='showDataBinding()' class = "btn btn-warning">Data Binding Demo</button>
+    </div>
+    <div class = 'col-md-3'>
+      <button (click)='showStructuralDirective()' class = "btn btn-warning">Structural Directive Demo</button>
+    </div>
+  </div>
+  <div class = "row">
+      <div class="col-md-12">
+        <app-t-shirt-demo *ngIf = "showDataBindingDemo" ></app-t-shirt-demo>
+        <app-products *ngIf = "showStructuralDirectiveDemo" ></app-products>
+    </div>
+  </div>
+</div>

@@ -3,7 +3,7 @@
   "version": 1,
   "newProjectRoot": "projects",
   "projects": {
-    "DataBindingDemo": {
+    "AgularDemo": {
       "projectType": "application",
       "schematics": {
         "@schematics/angular:application": {
@@ -17,7 +17,7 @@
         "build": {
           "builder": "@angular-devkit/build-angular:browser",
           "options": {
-            "outputPath": "dist/DataBindingDemo",
+            "outputPath": "dist/AgularDemo",
             "index": "src/index.html",
             "main": "src/main.ts",
             "polyfills": "src/polyfills.ts",
@@ -65,18 +65,18 @@
         "serve": {
           "builder": "@angular-devkit/build-angular:dev-server",
           "options": {
-            "browserTarget": "DataBindingDemo:build"
+            "browserTarget": "AgularDemo:build"
           },
           "configurations": {
             "production": {
-              "browserTarget": "DataBindingDemo:build:production"
+              "browserTarget": "AgularDemo:build:production"
             }
           }
         },
         "extract-i18n": {
           "builder": "@angular-devkit/build-angular:extract-i18n",
           "options": {
-            "browserTarget": "DataBindingDemo:build"
+            "browserTarget": "AgularDemo:build"
           }
         },
         "test": {
@@ -113,16 +113,16 @@
           "builder": "@angular-devkit/build-angular:protractor",
           "options": {
             "protractorConfig": "e2e/protractor.conf.js",
-            "devServerTarget": "DataBindingDemo:serve"
+            "devServerTarget": "AgularDemo:serve"
           },
           "configurations": {
             "production": {
-              "devServerTarget": "DataBindingDemo:serve:production"
+              "devServerTarget": "AgularDemo:serve:production"
             }
           }
         }
       }
     }
   },
-  "defaultProject": "DataBindingDemo"
+  "defaultProject": "AgularDemo"
 }

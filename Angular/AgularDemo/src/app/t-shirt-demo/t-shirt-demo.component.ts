@@ -1,22 +1,22 @@
 import { Component, OnInit } from '@angular/core';
 
 @Component({
-  selector: 'app-imagesizer',
-  templateUrl: './imagesizer.component.html',
-  styleUrls: ['./imagesizer.component.css']
+  selector: 'app-t-shirt-demo',
+  templateUrl: './t-shirt-demo.component.html',
+  styleUrls: ['./t-shirt-demo.component.css']
 })
-export class ImagesizerComponent implements OnInit {
+export class TShirtDemoComponent implements OnInit {
 
   constructor() { }
 
   ngOnInit(): void {
   }
-  h:number = 200;
-  w:number = 200;
+  h:number = 250;
+  w:number = 250;
   imgSource:string = '../assets/front.jpg';
   setdefault(){
-    this.h = 100;
-    this.w = 100;
+    this.h = 200;
+    this.w = 200;
   }
   onhover():void{
     this.imgSource = "../assets/back.jpg";
