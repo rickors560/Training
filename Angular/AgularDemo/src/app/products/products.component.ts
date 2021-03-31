@@ -29,7 +29,7 @@ export class ProductsComponent implements OnInit {
         Id: 2,
         Name: "Pencil",
         Price: 20,
-        ExpiryDate: "25-01-2021",
+        ExpiryDate: "05-01-2021",
         Quantity: 20,
         isInstock: false
       },
@@ -37,7 +37,7 @@ export class ProductsComponent implements OnInit {
         Id: 3,
         Name: "Eraser",
         Price: 5,
-        ExpiryDate: "22-10-2021",
+        ExpiryDate: "12-10-2021",
         Quantity: 50,
         isInstock: true
       },
@@ -45,7 +45,7 @@ export class ProductsComponent implements OnInit {
         Id: 4,
         Name: "Marker",
         Price: 45,
-        ExpiryDate: "14-08-2021",
+        ExpiryDate: "10-08-2021",
         Quantity: 0,
         isInstock: false
       },
@@ -53,7 +53,7 @@ export class ProductsComponent implements OnInit {
         Id: 5,
         Name: "Bat",
         Price: 1000,
-        ExpiryDate: "16-09-2021",
+        ExpiryDate: "06-09-2021",
         Quantity: 5,
         isInstock: true
       }
