@@ -20,7 +20,7 @@ export class PurchaseorderComponent implements OnInit , OnChanges {
   ngOnChanges(){
     console.log(this.productdetails);
      this.productdetails.Items.forEach(i => {
-       this.price = this.price + i.Price;
+       this.price = this.price + i.Price*i.Quantity;
      });
   }
 

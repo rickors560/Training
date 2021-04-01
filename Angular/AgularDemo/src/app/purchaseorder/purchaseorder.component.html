@@ -13,8 +13,8 @@
             <tbody >
                 <tr *ngFor="let i of productdetails.Items">
                     <td>{{i.Name}}</td>
-                    <td><input type="number" value="{{i.Price}}" maxlength="5" size="5" [(ngModel)]='id'></td>
-                    <td><input type="number" value="{{i.Quantity}}">{{i.Quantity}}</td>
+                    <td>{{i.Price}}</td>
+                    <td>{{i.Quantity}}</td>
                 </tr>
             </tbody>
         </table>
