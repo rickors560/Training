@@ -1,0 +1,23 @@
+<div>
+    <h1>{{productdetails.Purchase_Name}}</h1>
+    <p><strong>VendorName:</strong> {{productdetails.VendorName}} | <strong>Date :</strong> {{productdetails.Purchase_Date | date}}</p>
+    <div class="text-center">
+        <table class="table">
+            <thead  class="table-info">
+                <tr>
+                    <th>Title</th>
+                    <th>Price</th>
+                    <th>Quantity</th>
+                </tr>
+            </thead>
+            <tbody >
+                <tr *ngFor="let i of productdetails.Items">
+                    <td>{{i.Name}}</td>
+                    <td><input type="number" value="{{i.Price}}" maxlength="5" size="5" [(ngModel)]='id'></td>
+                    <td><input type="number" value="{{i.Quantity}}">{{i.Quantity}}</td>
+                </tr>
+            </tbody>
+        </table>
+    </div>
+    <div class="text-right">Total Cost: {{price | currency}} <a class="btn pull-right btn-danger" href="#" role="button" (click) = "sendProductData()">Place Order</a></div>
+</div>

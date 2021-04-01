@@ -9,11 +9,15 @@
     <div class = 'col-md-3'>
       <button (click)='showStructuralDirective()' class="btn btn-secondary">Structural Directive Demo</button>
     </div>
+    <div class = 'col-md-3'>
+      <button (click)='showMasterDetails()' class="btn btn-secondary">Master Details</button>
+    </div>
   </div>
   <div class = "row">
       <div class="col-md-12">
         <app-t-shirt-demo *ngIf = "showDataBindingDemo" ></app-t-shirt-demo>
         <app-products *ngIf = "showStructuralDirectiveDemo" ></app-products>
+        <app-purchase *ngIf = "showMasterDetailsDemo" ></app-purchase>
     </div>
   </div>
 </div>

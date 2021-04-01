@@ -1,0 +1,19 @@
+<br><br>
+<div class="row">
+    <div class="class col-md-12">
+        <mat-accordion>
+            <mat-expansion-panel *ngFor='let p of PurchaseItems' (opened)="panelOpenState = true"
+            (closed)="panelOpenState = false">
+                <mat-expansion-panel-header>
+                    <mat-panel-title>
+                        {{p.Purchase_ID}}
+                    </mat-panel-title>
+                    <mat-panel-description>
+                        {{p.Purchase_Name}}
+                    </mat-panel-description>
+                </mat-expansion-panel-header>
+                <app-purchaseorder [productdetails]='p' (sendProductDataEvent)="updatePurchase()"> </app-purchaseorder>
+            </mat-expansion-panel>
+        </mat-accordion>
+    </div>
+</div>

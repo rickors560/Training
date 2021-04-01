@@ -5,16 +5,23 @@ import { BrowserModule } from '@angular/platform-browser';
 import { AppComponent } from './app.component';
 import { TShirtDemoComponent } from './t-shirt-demo/t-shirt-demo.component';
 import { ProductsComponent } from './products/products.component';
-
+import { PurchaseComponent } from './purchase/purchase.component';
+import { PurchaseorderComponent } from './purchaseorder/purchaseorder.component';
+import { BrowserAnimationsModule } from '@angular/platform-browser/animations';
+import { MatExpansionModule } from '@angular/material/expansion';
 @NgModule({
   declarations: [
     AppComponent,
     TShirtDemoComponent,
-    ProductsComponent
+    ProductsComponent,
+    PurchaseComponent,
+    PurchaseorderComponent
   ],
   imports: [
     BrowserModule,
-    FormsModule
+    FormsModule,
+    MatExpansionModule,
+    BrowserAnimationsModule
   ],
   providers: [],
   bootstrap: [AppComponent]
