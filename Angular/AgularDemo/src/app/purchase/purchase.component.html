@@ -12,7 +12,7 @@
                         {{p.Purchase_Name}}
                     </mat-panel-description>
                 </mat-expansion-panel-header>
-                <app-purchaseorder [productdetails]='p' (sendProductDataEvent)="updatePurchase()"> </app-purchaseorder>
+                <app-purchaseorder [productdetails]='p' (sendProductDataEvent)="updatePurchase($event)"> </app-purchaseorder>
             </mat-expansion-panel>
         </mat-accordion>
     </div>

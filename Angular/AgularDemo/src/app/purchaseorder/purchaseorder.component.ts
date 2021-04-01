@@ -1,4 +1,4 @@
-import { Component, Input, OnChanges, OnInit, Output, EventEmitter } from '@angular/core';
+import { Component, Input, OnChanges, OnInit, Output, EventEmitter, DoCheck } from '@angular/core';
 import { IProduct } from '../products/IProduct';
 import { IPurchaseItem } from '../purchase/IPurchaseItem';
 
@@ -7,24 +7,34 @@ import { IPurchaseItem } from '../purchase/IPurchaseItem';
   templateUrl: './purchaseorder.component.html',
   styleUrls: ['./purchaseorder.component.css']
 })
-export class PurchaseorderComponent implements OnInit , OnChanges {
+export class PurchaseorderComponent implements OnInit , OnChanges, DoCheck {
 
   constructor() { }
   ngOnInit(): void {
   }
-  item: IProduct[];
   price = 0;
   id : number;
   @Input() productdetails: IPurchaseItem;
   @Output() sendProductDataEvent = new EventEmitter();
   ngOnChanges(){
-    console.log(this.productdetails);
      this.productdetails.Items.forEach(i => {
        this.price = this.price + i.Price*i.Quantity;
      });
   }
-
+  ngDoCheck(){
+    this.price = 0;
+    this.productdetails.Items.forEach(i => {
+      if(i.Price == null){
+        i.Price = 0;
+      }
+      if(i.Quantity == null){
+        i.Quantity = 0;
+      }
+      this.price = this.price + i.Price*i.Quantity;
+    });
+  }
   sendProductData():void{
-    this.sendProductDataEvent.emit();
+    
+    this.sendProductDataEvent.emit(this.productdetails.Purchase_ID);
   }
 }
