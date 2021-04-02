@@ -1,4 +1,4 @@
-import { NgModule } from '@angular/core';
+import { ErrorHandler, NgModule } from '@angular/core';
 import { FormsModule } from '@angular/forms';
 import { BrowserModule } from '@angular/platform-browser';
 
@@ -9,6 +9,9 @@ import { PurchaseComponent } from './purchase/purchase.component';
 import { PurchaseorderComponent } from './purchaseorder/purchaseorder.component';
 import { BrowserAnimationsModule } from '@angular/platform-browser/animations';
 import { MatExpansionModule } from '@angular/material/expansion';
+import { DataService } from './data.service';
+import { MyErrorHandlerService } from './my-error-handler.service';
+import { AppRoutingModule } from './app-routing.module';
 @NgModule({
   declarations: [
     AppComponent,
@@ -21,9 +24,12 @@ import { MatExpansionModule } from '@angular/material/expansion';
     BrowserModule,
     FormsModule,
     MatExpansionModule,
-    BrowserAnimationsModule
+    BrowserAnimationsModule,
+    AppRoutingModule
   ],
-  providers: [],
+  providers: [DataService,
+    {provide:ErrorHandler, useClass:MyErrorHandlerService}
+  ],
   bootstrap: [AppComponent]
 })
 export class AppModule { }

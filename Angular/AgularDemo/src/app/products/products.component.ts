@@ -1,4 +1,5 @@
 import { Component, OnInit } from '@angular/core';
+import { DataService } from '../data.service';
 import { IProduct } from './IProduct';
 
 @Component({
@@ -8,55 +9,13 @@ import { IProduct } from './IProduct';
 })
 export class ProductsComponent implements OnInit {
 
-  constructor() { }
+  constructor(private myDataService : DataService ) { }
 
   ngOnInit(): void {
     this.products = this.getProducts();
-    console.log(this.products);
   }
   products: IProduct[] = [];
   getProducts():IProduct[]{
-    return [
-      {
-        Id: 1,
-        Name: "Pen",
-        Price: 100,
-        ExpiryDate: "12-01-2021",
-        Quantity: 10,
-        isInstock: true
-      },
-      {
-        Id: 2,
-        Name: "Pencil",
-        Price: 20,
-        ExpiryDate: "05-01-2021",
-        Quantity: 20,
-        isInstock: false
-      },
-      {
-        Id: 3,
-        Name: "Eraser",
-        Price: 5,
-        ExpiryDate: "12-10-2021",
-        Quantity: 50,
-        isInstock: true
-      },
-      {
-        Id: 4,
-        Name: "Marker",
-        Price: 45,
-        ExpiryDate: "10-08-2021",
-        Quantity: 0,
-        isInstock: false
-      },
-      {
-        Id: 5,
-        Name: "Bat",
-        Price: 1000,
-        ExpiryDate: "06-09-2021",
-        Quantity: 5,
-        isInstock: true
-      }
-    ]
+    return this.myDataService.servicegetProducts();
   }
 }
