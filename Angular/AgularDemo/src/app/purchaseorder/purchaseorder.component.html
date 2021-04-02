@@ -13,8 +13,8 @@
             <tbody >
                 <tr *ngFor="let i of productdetails.Items">
                     <td>{{i.Name}}</td>
-                    <td><input id="pricetag" type="number" [(ngModel)]='i.Price' class="hidden-input"></td>
-                    <td><input id="quantitytag" type="number" [(ngModel)]='i.Quantity' class="hidden-input"></td>
+                    <td><input id="pricetag" type="number" [(ngModel)]='i.Price' class="hidden-input" (keyup)="calculatePrice()" min="0"></td>
+                    <td><input id="quantitytag" type="number" [(ngModel)]='i.Quantity' class="hidden-input" (keyup)="calculatePrice()" min="0"></td>
                 </tr>
             </tbody>
         </table>
