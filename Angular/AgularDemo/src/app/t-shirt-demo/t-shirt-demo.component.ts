@@ -28,4 +28,12 @@ export class TShirtDemoComponent implements OnInit {
   generateError(){
     this.er.sort();
   }
+  checkforzero(){
+    if(this.h <= 0 || this.h == null){
+      this.h = 100;
+    }
+    if(this.w <= 0 || this.w == null){
+      this.w = 100;
+    }
+  }
 }
