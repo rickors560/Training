@@ -14,8 +14,19 @@ export class ProductsComponent implements OnInit {
   ngOnInit(): void {
     this.products = this.getProducts();
   }
+  displayedColumns : string[] = ['Id', 'Name','Price', 'ExpiryDate','Quantity','In-Stock'];
   products: IProduct[] = [];
   getProducts():IProduct[]{
     return this.myDataService.servicegetProducts();
+  }
+  showHtmlbool = true;
+  showMaterialbool = false;
+  showHtmlTable(){
+    this.showHtmlbool = true;
+    this.showMaterialbool = false;
+  }
+  showMaterialTable(){
+    this.showMaterialbool = true;
+    this.showHtmlbool = false;
   }
 }

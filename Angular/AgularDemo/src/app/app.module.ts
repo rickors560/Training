@@ -12,20 +12,36 @@ import { MatExpansionModule } from '@angular/material/expansion';
 import { DataService } from './data.service';
 import { MyErrorHandlerService } from './my-error-handler.service';
 import { AppRoutingModule } from './app-routing.module';
+import { Comp1Component } from './comp1/comp1.component';
+import { Comp2Component } from './comp2/comp2.component';
+import { SharedataComponent } from './sharedata/sharedata.component';
+import {MatTableModule} from '@angular/material/table';
+import { AttributedirectiveComponent } from './attributedirective/attributedirective.component';
+import { MydirectiveDirective } from './mydirective.directive';
+import { HomeComponent } from './home/home.component';
+import { GlobalerrorhandlerComponent } from './globalerrorhandler/globalerrorhandler.component';
 @NgModule({
   declarations: [
     AppComponent,
     TShirtDemoComponent,
     ProductsComponent,
     PurchaseComponent,
-    PurchaseorderComponent
+    PurchaseorderComponent,
+    Comp1Component,
+    Comp2Component,
+    SharedataComponent,
+    AttributedirectiveComponent,
+    MydirectiveDirective,
+    HomeComponent,
+    GlobalerrorhandlerComponent
   ],
   imports: [
     BrowserModule,
     FormsModule,
     MatExpansionModule,
     BrowserAnimationsModule,
-    AppRoutingModule
+    AppRoutingModule,
+    MatTableModule 
   ],
   providers: [DataService,
     {provide:ErrorHandler, useClass:MyErrorHandlerService}

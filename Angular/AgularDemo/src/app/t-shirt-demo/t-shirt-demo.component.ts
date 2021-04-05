@@ -24,10 +24,6 @@ export class TShirtDemoComponent implements OnInit {
   onhoverout():void{
     this.imgSource = '../assets/front.jpg';
   }
-  er : any = undefined;
-  generateError(){
-    this.er.sort();
-  }
   checkforzero(){
     if(this.h <= 0 || this.h == null){
       this.h = 100;

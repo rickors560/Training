@@ -1,37 +1,113 @@
-<br><br>
-<div class='row'>
-    <table class="table">
-        <thead class="thead-dark">
-            <tr>
-                <th>ID</th>
-                <th>Name</th>
-                <th>Price</th>
-                <th>Expiry Date</th>
-                <th>Quantity</th>
-                <th>In-Stock</th>
-            </tr>
-        </thead>
-        <tbody>
-            <tr *ngFor = 'let p of products'>
-                <td>{{p.Id}}</td>
-                <td>{{p.Name}}</td>
-                <td>{{p.Price | currency : "INR"}}</td>
-                <td>{{p.ExpiryDate | date}}</td>
-                <td>{{p.Quantity}}</td>
-                <td>
-                    <ng-container *ngIf="p.isInstock; then instock else outofstock">
-                    </ng-container>
-                     
+<div class="container">
+    <h1>Product Details with Structural Directive</h1>
+    <br><br>
+    <ul class="nav nav-tabs">
+        <!-- <li class="nav-item">
+      <a class="nav-link active" aria-current="page" (click)='showHtmlTable()'>HTML Table</a>
+    </li> -->
+        <li class="nav-item">
+            <a class="nav-link" (click)='showHtmlTable()'>HTML Table</a>
+        </li>
+        <li class="nav-item">
+            <a class="nav-link" (click)='showMaterialTable()'>Material Table</a>
+        </li>
+    </ul>
+    <hr>
+    <div class='row' *ngIf="showHtmlbool">
+        <table class="table">
+            <thead class="thead-dark">
+                <tr>
+                    <th>ID</th>
+                    <th>Name</th>
+                    <th>Price</th>
+                    <th>Expiry Date</th>
+                    <th>Quantity</th>
+                    <th>In-Stock</th>
+                </tr>
+            </thead>
+            <tbody>
+                <tr *ngFor='let p of products'>
+                    <td>{{p.Id}}</td>
+                    <td>{{p.Name}}</td>
+                    <td>{{p.Price | currency : "INR"}}</td>
+                    <td>{{p.ExpiryDate | date}}</td>
+                    <td>{{p.Quantity}}</td>
+                    <td>
+                        <ng-container *ngIf="p.isInstock; then instock else outofstock">
+                        </ng-container>
+
                         <ng-template #instock>
                             <i class="fas fa-check-circle"></i>
                         </ng-template>
-                     
+
                         <ng-template #outofstock>
                             <i class="fas fa-times-circle"></i>
                             <button class="btn btn-danger">Order Now</button>
                         </ng-template>
+                    </td>
+                </tr>
+            </tbody>
+        </table>
+    </div>
+    <div class="row" *ngIf="showMaterialbool">
+        <table mat-table [dataSource]="products" class="mat-elevation-z8">
+
+            <!--- Note that these columns can be defined in any order.
+              The actual rendered columns are set as a property on the row definition" -->
+
+            <ng-container matColumnDef="Id">
+                <th mat-header-cell *matHeaderCellDef> ID </th>
+                <td mat-cell *matCellDef="let element"> {{element.Id}} </td>
+            </ng-container>
+
+            <ng-container matColumnDef="Name">
+                <th mat-header-cell *matHeaderCellDef> Name </th>
+                <td mat-cell *matCellDef="let element"> {{element.Name}} </td>
+            </ng-container>
+
+            <ng-container matColumnDef="Price">
+                <th mat-header-cell *matHeaderCellDef> Price </th>
+                <td mat-cell *matCellDef="let element"> {{element.Price | currency : "INR"}} </td>
+            </ng-container>
+
+            <ng-container matColumnDef="ExpiryDate">
+                <th mat-header-cell *matHeaderCellDef> ExpiryDate </th>
+                <td mat-cell *matCellDef="let element"> {{element.ExpiryDate | date}} </td>
+            </ng-container>
+
+            <ng-container matColumnDef="Quantity">
+                <th mat-header-cell *matHeaderCellDef> Quantity </th>
+                <td mat-cell *matCellDef="let element"> {{element.Quantity}} </td>
+            </ng-container>
+
+            <ng-container matColumnDef="In-Stock">
+                <th mat-header-cell *matHeaderCellDef> In-Stock </th>
+                <td mat-cell *matCellDef="let element">
+                    <ng-container *ngIf="element.isInstock; then instock else outofstock">
+                    </ng-container>
+
+                    <ng-template #instock>
+                        <i class="fas fa-check-circle"></i>
+                    </ng-template>
+
+                    <ng-template #outofstock>
+                        <i class="fas fa-times-circle"></i>
+                    </ng-template>
                 </td>
-            </tr>
-        </tbody>
-    </table>
+            </ng-container>
+
+            <tr mat-header-row *matHeaderRowDef="displayedColumns"></tr>
+            <tr mat-row *matRowDef="let row; columns: displayedColumns;"></tr>
+        </table>
+    </div>
+</div>
+<br /><br />
+<div class="row">
+    <div class="col-md-12">
+        <footer>
+            <p>In this demo we are using ngFor, ng-container, ngIf,ng-template for displaying all attribute of table and
+                also showing material table
+                of angular using mat-table. </p>
+        </footer>
+    </div>
 </div>

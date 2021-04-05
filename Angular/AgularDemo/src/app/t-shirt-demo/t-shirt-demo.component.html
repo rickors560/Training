@@ -1,20 +1,24 @@
+<h1>Data Binding</h1>
 <div class='row'>
     <br><br>
     <div class = 'col-md-3'></div> 
     <div class = 'col-md-6'>
         <br>
-        Height : <input type="number" [(ngModel)]="h" (keyup)="checkforzero()" min="100">
+        Height : <input type="number" class="form-control" [(ngModel)]="h" (keyup)="checkforzero()" min="100" placeholder="Enter height">
         <br>
         <br>
-        Width : <input type="number" [(ngModel)]="w" (keyup)="checkforzero()" min="100">
+        Width : <input type="number" class="form-control" [(ngModel)]="w" (keyup)="checkforzero()" min="100" placeholder="Enter width">
         <br>
         <br>
         <img [src] = 'imgSource' [style.height.px] = 'h' [style.width.px] = 'w' (mouseenter) = 'onhover()' (mouseleave) = 'onhoverout()'>
     </div>
 </div>
-<br><br>
-<div class= "row">
-    <div class="col-md-3">
-        <button class="btn btn-danger" (click)="generateError()">Generate Error</button>
-    </div>
+<br/><br/>
+<div class="row">
+  <div class="col-md-12">
+      <footer>
+          <p >In this demo we are using two way data binding, ngModel and  mouse event 
+          mouseenter and mouseleave. In the input box we can specify the height and width of the Image and can alter image size.</p>
+        </footer>
+  </div>
 </div>

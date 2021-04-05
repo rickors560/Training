@@ -7,6 +7,12 @@ import { Component } from '@angular/core';
 })
 export class AppComponent {
   title = 'AgularDemo';
+  shareDataDemo = false;
+  flag = true;
+  shareData(){
+    this.shareDataDemo = true;
+    this.flag = false;
+  }
   // showDataBindingDemo = false;
   // showStructuralDirectiveDemo = false;
   // showMasterDetailsDemo = false;
