@@ -11,7 +11,7 @@ function ageRangeValidator(min:number,max:number):ValidatorFn{
       return null;
     }
 }
-// default function with hard code to pass parameters
+// default function with hard code(18, 45) to pass parameters
 // function ageRangeValidator(control : AbstractControl):{[key:string]: boolean} | null {
 //   if(control.value !== undefined && (isNaN(control.value) || control.value <18 || control.value > 45)){
 //     return {"ageRange":true}
@@ -68,4 +68,7 @@ export class LoginComponent implements OnInit {
       }
     )
   }
+
+
+  
 }
