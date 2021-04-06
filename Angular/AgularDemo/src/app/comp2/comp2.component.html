@@ -22,15 +22,14 @@
                 <td>
                     <ng-container *ngIf="p.isInstock; then instock else outofstock">
                     </ng-container>
-                     
-                        <ng-template #instock>
-                            <i class="fas fa-check-circle"></i>
-                        </ng-template>
-                     
-                        <ng-template #outofstock>
-                            <i class="fas fa-times-circle"></i>
-                            <button class="btn btn-danger">Order Now</button>
-                        </ng-template>
+
+                    <ng-template #instock>
+                        <i class="fas fa-check-circle"></i>
+                    </ng-template>
+
+                    <ng-template #outofstock>
+                        <i class="fas fa-times-circle"></i>
+                    </ng-template>
                 </td>
             </tr>
         </tbody>

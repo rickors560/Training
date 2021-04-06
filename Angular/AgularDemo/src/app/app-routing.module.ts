@@ -3,6 +3,7 @@ import { RouterModule, Routes } from '@angular/router';
 import { AttributedirectiveComponent } from './attributedirective/attributedirective.component';
 import { GlobalerrorhandlerComponent } from './globalerrorhandler/globalerrorhandler.component';
 import { HomeComponent } from './home/home.component';
+import { LoginComponent } from './login/login.component';
 import { ProductsComponent } from './products/products.component';
 import { PurchaseComponent } from './purchase/purchase.component';
 import { SharedataComponent } from './sharedata/sharedata.component';
@@ -16,7 +17,8 @@ const routes: Routes = [
     {path:"purchase", component:PurchaseComponent},
     {path:"shareData", component:SharedataComponent},
     {path:"attributedirective", component:AttributedirectiveComponent},
-    {path:"globalerrorhandler", component:GlobalerrorhandlerComponent}
+    {path:"globalerrorhandler", component:GlobalerrorhandlerComponent},
+    {path:"login", component:LoginComponent}
 ];
 
 @NgModule({

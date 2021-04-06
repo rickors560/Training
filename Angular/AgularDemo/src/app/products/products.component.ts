@@ -14,11 +14,17 @@ export class ProductsComponent implements OnInit {
   ngOnInit(): void {
     this.products = this.getProducts();
   }
+  search: string;
+  searchPrice: number;
+
   displayedColumns : string[] = ['Id', 'Name','Price', 'ExpiryDate','Quantity','In-Stock'];
+
   products: IProduct[] = [];
+
   getProducts():IProduct[]{
     return this.myDataService.servicegetProducts();
   }
+
   showHtmlbool = true;
   showMaterialbool = false;
   showHtmlTable(){
@@ -29,4 +35,5 @@ export class ProductsComponent implements OnInit {
     this.showMaterialbool = true;
     this.showHtmlbool = false;
   }
+
 }

@@ -1,6 +1,8 @@
 <div class="container">
     <h1>Product Details with Structural Directive</h1>
     <br><br>
+    <input type="text" [(ngModel)]='search' class="form-control" placeholder="Search Product Name"><br><br>
+    <input type="number" [(ngModel)]='searchPrice' class="form-control" placeholder="Search Product Price"><br><br>
     <ul class="nav nav-tabs">
         <!-- <li class="nav-item">
       <a class="nav-link active" aria-current="page" (click)='showHtmlTable()'>HTML Table</a>
@@ -26,7 +28,7 @@
                 </tr>
             </thead>
             <tbody>
-                <tr *ngFor='let p of products'>
+                <tr *ngFor='let p of products | productsearch:search | productpricesearch:searchPrice'>
                     <td>{{p.Id}}</td>
                     <td>{{p.Name}}</td>
                     <td>{{p.Price | currency : "INR"}}</td>
@@ -50,7 +52,7 @@
         </table>
     </div>
     <div class="row" *ngIf="showMaterialbool">
-        <table mat-table [dataSource]="products" class="mat-elevation-z8">
+        <table mat-table [dataSource]="products  | productsearch:search | productpricesearch:searchPrice" class="mat-elevation-z8">
 
             <!--- Note that these columns can be defined in any order.
               The actual rendered columns are set as a property on the row definition" -->
