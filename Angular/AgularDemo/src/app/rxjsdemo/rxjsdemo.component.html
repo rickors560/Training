@@ -2,62 +2,16 @@
     <br><br>
     <ul class="nav nav-tabs">
         <li class="nav-item">
-            <a class="nav-link">Subject</a>
+            <a class="nav-link" routerLink="/subject">Subject </a>
         </li>
         <li class="nav-item">
-            <a class="nav-link" >BehaviorSubject</a>
+            <a class="nav-link" routerLink="/behavioursubject">BehaviorSubject</a>
         </li>
         <li class="nav-item">
-            <a class="nav-link">ReplaySubject</a>
+            <a class="nav-link" routerLink="/replaysubject">ReplaySubject</a>
         </li>
         <li class="nav-item">
-            <a class="nav-link">AsyncSubject</a>
+            <a class="nav-link" routerLink="/asyncsubject">AsyncSubject</a>
         </li>
     </ul>
-    <hr>
-
-    <div class="container">
-        <div class="row">
-            <h2>Subject Observable</h2>     
-        </div>
-        <br><br>
-        <div class="row">
-            <div class="col-md-4">
-                <button class="btn btn-primary" (click)="subscribe1()">Subsciber 1</button><br>
-                <br>
-                <strong>
-                    <div *ngFor="let p of observer1" style="color:orangered">
-                        <p class="data1"> {{p}}</p>
-                </div>
-                <div *ngIf="showObserver1" style="color: dodgerblue;">
-                    Complete
-                </div>
-                </strong>
-            </div>
-            <div class="col-md-4">
-                <button class="btn btn-primary" (click)="subscribe2()">Subsciber 2</button><br>
-                <br>
-                <strong>
-                    <div *ngFor="let p of observer2" style="color:orangered">
-                        <p class="data1"> {{p}}</p>
-                </div>
-                <div *ngIf="showObserver2" style="color: dodgerblue;">
-                    Complete
-                </div>
-                </strong>
-            </div>
-            <div class="col-md-4">
-                <button class="btn btn-primary" (click)="subscribe3()">Subsciber 3</button><br>
-                <br>
-                <strong>
-                    <div *ngFor="let p of observer3" style="color:orangered">
-                        <p class="data1"> {{p}}</p>
-                </div>
-                <div *ngIf="showObserver3" style="color: dodgerblue;">
-                    Complete
-                </div>
-                </strong>
-            </div>
-        </div>
-    </div>
 </div>

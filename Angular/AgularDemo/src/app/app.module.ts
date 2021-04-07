@@ -24,6 +24,10 @@ import { LoginComponent } from './login/login.component';
 import { ProductsearchPipe } from './productsearch.pipe';
 import { ProductpricesearchPipe } from './productpricesearch.pipe';
 import { RxjsdemoComponent } from './rxjsdemo/rxjsdemo.component';
+import { SubjectComComponent } from './subject-com/subject-com.component';
+import { BehaviorsubjectComComponent } from './behaviorsubject-com/behaviorsubject-com.component';
+import { ReplaysubjectComComponent } from './replaysubject-com/replaysubject-com.component';
+import { AsyncsubjectComComponent } from './asyncsubject-com/asyncsubject-com.component';
 @NgModule({
   declarations: [
     AppComponent,
@@ -41,7 +45,11 @@ import { RxjsdemoComponent } from './rxjsdemo/rxjsdemo.component';
     LoginComponent,
     ProductsearchPipe,
     ProductpricesearchPipe,
-    RxjsdemoComponent
+    RxjsdemoComponent,
+    SubjectComComponent,
+    BehaviorsubjectComComponent,
+    ReplaysubjectComComponent,
+    AsyncsubjectComComponent
   ],
   imports: [
     BrowserModule,
@@ -53,7 +61,7 @@ import { RxjsdemoComponent } from './rxjsdemo/rxjsdemo.component';
     ReactiveFormsModule 
   ],
   providers: [DataService,
-    {provide:ErrorHandler, useClass:ErrorHandler}
+    {provide:ErrorHandler, useClass:MyErrorHandlerService}
   ],
   bootstrap: [AppComponent]
 })
