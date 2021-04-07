@@ -26,7 +26,7 @@ export class ReplaysubjectComComponent implements OnInit, OnDestroy {
   showObserver2 = false;
   showObserver3 = false;
 
-  subscribe1_3() {
+  subscribe1() {
     this.observer1$ =  this.replaysubjectservice.count$.subscribe(
       (data: number) => { this.observer1.push(data) },
       null,
@@ -36,7 +36,7 @@ export class ReplaysubjectComComponent implements OnInit, OnDestroy {
       }
     );
   }
-  subscribe2_3() {
+  subscribe2() {
     this.observer2$ = this.replaysubjectservice.count$.subscribe(
       (data: number) => { this.observer2.push(data) },
       null,
@@ -46,7 +46,7 @@ export class ReplaysubjectComComponent implements OnInit, OnDestroy {
       }
     );
   }
-  subscribe3_3() {
+  subscribe3() {
     this.observer3$ = this.replaysubjectservice.count$.subscribe(
       (data: number) => { this.observer3.push(data) },
       null,

@@ -23,7 +23,6 @@ import { GlobalerrorhandlerComponent } from './globalerrorhandler/globalerrorhan
 import { LoginComponent } from './login/login.component';
 import { ProductsearchPipe } from './productsearch.pipe';
 import { ProductpricesearchPipe } from './productpricesearch.pipe';
-import { RxjsdemoComponent } from './rxjsdemo/rxjsdemo.component';
 import { SubjectComComponent } from './subject-com/subject-com.component';
 import { BehaviorsubjectComComponent } from './behaviorsubject-com/behaviorsubject-com.component';
 import { ReplaysubjectComComponent } from './replaysubject-com/replaysubject-com.component';
@@ -45,7 +44,6 @@ import { AsyncsubjectComComponent } from './asyncsubject-com/asyncsubject-com.co
     LoginComponent,
     ProductsearchPipe,
     ProductpricesearchPipe,
-    RxjsdemoComponent,
     SubjectComComponent,
     BehaviorsubjectComComponent,
     ReplaysubjectComComponent,

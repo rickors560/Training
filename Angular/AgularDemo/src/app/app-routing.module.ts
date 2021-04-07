@@ -9,7 +9,6 @@ import { LoginComponent } from './login/login.component';
 import { ProductsComponent } from './products/products.component';
 import { PurchaseComponent } from './purchase/purchase.component';
 import { ReplaysubjectComComponent } from './replaysubject-com/replaysubject-com.component';
-import { RxjsdemoComponent } from './rxjsdemo/rxjsdemo.component';
 import { SharedataComponent } from './sharedata/sharedata.component';
 import { SubjectComComponent } from './subject-com/subject-com.component';
 import { TShirtDemoComponent } from './t-shirt-demo/t-shirt-demo.component';
@@ -24,7 +23,6 @@ const routes: Routes = [
     {path:"attributedirective", component:AttributedirectiveComponent},
     {path:"globalerrorhandler", component:GlobalerrorhandlerComponent},
     {path:"login", component:LoginComponent},
-    {path:"rxjs", component:RxjsdemoComponent},
     {path:"subject", component:SubjectComComponent},
     {path:"behavioursubject",component:BehaviorsubjectComComponent},
     {path:"replaysubject",component:ReplaysubjectComComponent},

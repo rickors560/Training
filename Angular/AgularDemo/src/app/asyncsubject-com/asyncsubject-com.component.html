@@ -1,16 +1,12 @@
 <div class="container">
     <br>
-        <div class="float-right">
-            <label routerLink="/rxjs">Back</label>
-        </div>
-    <br>
     <div class="row">
         <h2>Async Subject Observable</h2>     
     </div>
     <br><br>
     <div class="row">
         <div class="col-md-4">
-            <button class="btn btn-primary" (click)="subscribe1_4()">Subsciber 1</button><br>
+            <button class="btn btn-primary" (click)="subscribe1()">Subsciber 1</button><br>
             <br>
             <strong>
                 <div *ngFor="let p of observer1" style="color:orangered">
@@ -22,7 +18,7 @@
             </strong>
         </div>
         <div class="col-md-4">
-            <button class="btn btn-primary" (click)="subscribe2_4()">Subsciber 2</button><br>
+            <button class="btn btn-primary" (click)="subscribe2()">Subsciber 2</button><br>
             <br>
             <strong>
                 <div *ngFor="let p of observer2" style="color:orangered">
@@ -34,7 +30,7 @@
             </strong>
         </div>
         <div class="col-md-4">
-            <button class="btn btn-primary" (click)="subscribe3_4()">Subsciber 3</button><br>
+            <button class="btn btn-primary" (click)="subscribe3()">Subsciber 3</button><br>
             <br>
             <strong>
                 <div *ngFor="let p of observer3" style="color:orangered">

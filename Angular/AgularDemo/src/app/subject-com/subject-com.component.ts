@@ -19,13 +19,13 @@ export class SubjectComComponent implements OnInit, OnDestroy {
   observer2$: Subscription;
   observer2: number[] = [];
   observer3$: Subscription;
-  observer3: number[];
+  observer3: number[] = [];
   
   showObserver1 = false;
   showObserver2 = false;
   showObserver3 = false;
 
-  subscribe1_1() {
+  subscribe1() {
     this.observer1$ = this.subjectservice.count$.subscribe(
       (data: number) => { this.observer1.push(data) },
       null,
@@ -35,7 +35,7 @@ export class SubjectComComponent implements OnInit, OnDestroy {
       }
     );
   }
-  subscribe2_1() {
+  subscribe2() {
     this.observer2$ = this.subjectservice.count$.subscribe(
       (data: number) => { this.observer2.push(data) },
       null,
@@ -45,7 +45,7 @@ export class SubjectComComponent implements OnInit, OnDestroy {
       }
     );
   }
-  subscribe3_1() {
+  subscribe3() {
     this.observer3$ = this.subjectservice.count$.subscribe(
       (data: number) => { this.observer3.push(data) },
       null,

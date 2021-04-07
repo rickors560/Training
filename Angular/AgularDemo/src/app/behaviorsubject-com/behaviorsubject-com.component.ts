@@ -26,7 +26,7 @@ export class BehaviorsubjectComComponent implements OnInit, OnDestroy {
   showObserver2 = false;
   showObserver3 = false;
 
-  subscribe1_2() {
+  subscribe1() {
     this.observer1$ = this.behavioursubjectservice.count$.subscribe(
       (data: number) => { this.observer1.push(data) },
       null,
@@ -36,7 +36,7 @@ export class BehaviorsubjectComComponent implements OnInit, OnDestroy {
       }
     );
   }
-  subscribe2_2() {
+  subscribe2() {
     this.observer2$ = this.behavioursubjectservice.count$.subscribe(
       (data: number) => { this.observer2.push(data) },
       null,
@@ -46,7 +46,7 @@ export class BehaviorsubjectComComponent implements OnInit, OnDestroy {
       }
     );
   }
-  subscribe3_2() {
+  subscribe3() {
     this.observer3$ = this.behavioursubjectservice.count$.subscribe(
       (data: number) => { this.observer3.push(data) },
       null,
