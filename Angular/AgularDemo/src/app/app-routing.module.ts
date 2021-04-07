@@ -6,6 +6,7 @@ import { HomeComponent } from './home/home.component';
 import { LoginComponent } from './login/login.component';
 import { ProductsComponent } from './products/products.component';
 import { PurchaseComponent } from './purchase/purchase.component';
+import { RxjsdemoComponent } from './rxjsdemo/rxjsdemo.component';
 import { SharedataComponent } from './sharedata/sharedata.component';
 import { TShirtDemoComponent } from './t-shirt-demo/t-shirt-demo.component';
 
@@ -18,7 +19,8 @@ const routes: Routes = [
     {path:"shareData", component:SharedataComponent},
     {path:"attributedirective", component:AttributedirectiveComponent},
     {path:"globalerrorhandler", component:GlobalerrorhandlerComponent},
-    {path:"login", component:LoginComponent}
+    {path:"login", component:LoginComponent},
+    {path:"rxjs", component:RxjsdemoComponent}
 ];
 
 @NgModule({

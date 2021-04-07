@@ -23,6 +23,7 @@ import { GlobalerrorhandlerComponent } from './globalerrorhandler/globalerrorhan
 import { LoginComponent } from './login/login.component';
 import { ProductsearchPipe } from './productsearch.pipe';
 import { ProductpricesearchPipe } from './productpricesearch.pipe';
+import { RxjsdemoComponent } from './rxjsdemo/rxjsdemo.component';
 @NgModule({
   declarations: [
     AppComponent,
@@ -39,7 +40,8 @@ import { ProductpricesearchPipe } from './productpricesearch.pipe';
     GlobalerrorhandlerComponent,
     LoginComponent,
     ProductsearchPipe,
-    ProductpricesearchPipe
+    ProductpricesearchPipe,
+    RxjsdemoComponent
   ],
   imports: [
     BrowserModule,
@@ -51,7 +53,7 @@ import { ProductpricesearchPipe } from './productpricesearch.pipe';
     ReactiveFormsModule 
   ],
   providers: [DataService,
-    {provide:ErrorHandler, useClass:MyErrorHandlerService}
+    {provide:ErrorHandler, useClass:ErrorHandler}
   ],
   bootstrap: [AppComponent]
 })
