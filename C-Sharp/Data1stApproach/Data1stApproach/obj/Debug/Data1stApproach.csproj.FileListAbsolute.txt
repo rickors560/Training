@@ -1,0 +1,11 @@
+C:\New folder\Data1stApproach\Data1stApproach\bin\Debug\Data1stApproach.exe.config
+C:\New folder\Data1stApproach\Data1stApproach\bin\Debug\Data1stApproach.exe
+C:\New folder\Data1stApproach\Data1stApproach\bin\Debug\Data1stApproach.pdb
+C:\New folder\Data1stApproach\Data1stApproach\bin\Debug\EntityFramework.dll
+C:\New folder\Data1stApproach\Data1stApproach\bin\Debug\EntityFramework.SqlServer.dll
+C:\New folder\Data1stApproach\Data1stApproach\bin\Debug\EntityFramework.xml
+C:\New folder\Data1stApproach\Data1stApproach\bin\Debug\EntityFramework.SqlServer.xml
+C:\New folder\Data1stApproach\Data1stApproach\obj\Debug\Data1stApproach.csproj.CoreCompileInputs.cache
+C:\New folder\Data1stApproach\Data1stApproach\obj\Debug\Data1stApproach.csproj.CopyComplete
+C:\New folder\Data1stApproach\Data1stApproach\obj\Debug\Data1stApproach.exe
+C:\New folder\Data1stApproach\Data1stApproach\obj\Debug\Data1stApproach.pdb
