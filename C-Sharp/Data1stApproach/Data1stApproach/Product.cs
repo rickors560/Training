@@ -17,5 +17,9 @@ namespace Data1stApproach
         public decimal Id { get; set; }
         public string Title { get; set; }
         public decimal Price { get; set; }
+    
+        public virtual Product Product1 { get; set; }
+        public virtual Product Product2 { get; set; }
+        public virtual ProductDetail ProductDetail { get; set; }
     }
 }

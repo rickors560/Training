@@ -26,12 +26,37 @@ namespace Data1stApproach
             //findBat.Price = 1500;
 
             //context.SaveChanges();
-            var products = context.Products.Select((i)=> i);
-            products.ToList().ForEach(
-                (p) => {
-                    Console.WriteLine(p.ToString()); 
-                }
-                );
+
+            //var products = context.Products.Select((i)=> i);
+            //products.ToList().ForEach(
+            //    (p) => {
+            //        Console.WriteLine(p.ToString()); 
+            //    }
+            //    );  
+
+            //var ball = new Product {
+            //    Id = 4,
+            //    Title = "Ball",
+            //    Price = 500
+            //};
+            //context.Products.Add(ball);
+            //var ballDetail = new ProductDetail {
+            //    Id = 4,
+            //    Title = "Ball",
+            //    ExpiryDate = "06-01-2021",
+            //    IsInStock = "false"
+            //};
+            //context.ProductDetails.Add(ballDetail);
+            //context.SaveChanges();
+            //var productdetails = context.ProductDetails.Include("Product");
+            //productdetails.ToList().ForEach(
+            //    (p) =>
+            //    {
+            //        Console.WriteLine(p.ToString());
+            //    }
+            //);
+
+
         }
     }
 }

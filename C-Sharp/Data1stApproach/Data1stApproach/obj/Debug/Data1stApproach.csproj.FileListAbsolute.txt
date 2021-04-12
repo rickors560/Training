@@ -9,3 +9,15 @@ C:\New folder\Data1stApproach\Data1stApproach\obj\Debug\Data1stApproach.csproj.C
 C:\New folder\Data1stApproach\Data1stApproach\obj\Debug\Data1stApproach.csproj.CopyComplete
 C:\New folder\Data1stApproach\Data1stApproach\obj\Debug\Data1stApproach.exe
 C:\New folder\Data1stApproach\Data1stApproach\obj\Debug\Data1stApproach.pdb
+C:\Users\S S INFOTECH\Desktop\GitRepos\Training\C-Sharp\Data1stApproach\Data1stApproach\bin\Debug\Data1stApproach.exe.config
+C:\Users\S S INFOTECH\Desktop\GitRepos\Training\C-Sharp\Data1stApproach\Data1stApproach\bin\Debug\Data1stApproach.exe
+C:\Users\S S INFOTECH\Desktop\GitRepos\Training\C-Sharp\Data1stApproach\Data1stApproach\bin\Debug\Data1stApproach.pdb
+C:\Users\S S INFOTECH\Desktop\GitRepos\Training\C-Sharp\Data1stApproach\Data1stApproach\bin\Debug\EntityFramework.dll
+C:\Users\S S INFOTECH\Desktop\GitRepos\Training\C-Sharp\Data1stApproach\Data1stApproach\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\S S INFOTECH\Desktop\GitRepos\Training\C-Sharp\Data1stApproach\Data1stApproach\bin\Debug\EntityFramework.xml
+C:\Users\S S INFOTECH\Desktop\GitRepos\Training\C-Sharp\Data1stApproach\Data1stApproach\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\S S INFOTECH\Desktop\GitRepos\Training\C-Sharp\Data1stApproach\Data1stApproach\obj\Debug\Data1stApproach.csprojAssemblyReference.cache
+C:\Users\S S INFOTECH\Desktop\GitRepos\Training\C-Sharp\Data1stApproach\Data1stApproach\obj\Debug\Data1stApproach.csproj.CoreCompileInputs.cache
+C:\Users\S S INFOTECH\Desktop\GitRepos\Training\C-Sharp\Data1stApproach\Data1stApproach\obj\Debug\Data1stApproach.csproj.CopyComplete
+C:\Users\S S INFOTECH\Desktop\GitRepos\Training\C-Sharp\Data1stApproach\Data1stApproach\obj\Debug\Data1stApproach.exe
+C:\Users\S S INFOTECH\Desktop\GitRepos\Training\C-Sharp\Data1stApproach\Data1stApproach\obj\Debug\Data1stApproach.pdb
