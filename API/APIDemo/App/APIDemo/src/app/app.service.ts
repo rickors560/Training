@@ -18,14 +18,14 @@ export class AppService {
     const headers = {'content-type':'application/json'};
     return this.http.get<Product[]>(apiurl,{'headers':headers}).pipe(
       tap(data=>console.log(data)),
-      catchError(error => {
-        return throwError(error);
-      }
+      catchError(
+        //error => {return throwError(error);}
+        error => this.myerrorhandler(error)
       )
     );
   }
-  // getError(err: any){
-  //   return throwError(err);
-  //   );
-  // }
+  private myerrorhandler(err: any){
+    console.log(err);
+    return throwError(err);
+  }
 }
