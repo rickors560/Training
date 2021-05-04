@@ -1,0 +1,29 @@
+.h4, h4{
+    text-align: center;
+}
+.inputadd {
+    overflow: visible;
+    width: 27%;
+    position: absolute;
+    left: 35%;
+    top: 15%;
+}
+.add {
+    cursor: pointer;
+    position: absolute;
+    top: 15%;
+    left: 63%;
+}
+.item {
+    background: rgb(236, 233, 233);
+    border: none;
+    border-bottom: groove;
+    border-radius: 5px;
+    text-align: left;
+    width: 38%;
+}
+.items{
+    position: absolute;
+    left: 34%;
+    top: 25%;
+}

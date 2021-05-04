@@ -1,0 +1,21 @@
+<div class="container">
+    <div class="text-right">
+        <h5>Hello, {{user}} <i class="bi bi-person-circle"></i></h5>
+    </div>
+    <hr>
+    <h4>To Do List</h4>
+    <input class="form-control inputadd" placeholder="Add Task" [(ngModel)]='task'>
+    <button class="btn btn-primary add" (click)="add()">+</button>
+    <div class="container items">
+        <ul class="list-group" *ngFor="let x of todoitems$ | async">
+            <li class="item list-group-item d-flex justify-content-between" data-toggle="tooltip"
+                data-placement="bottom" title="Created On: {{x.createdOn | date:'medium'}}">
+                <i class="bi bi-check-circle-fill" *ngIf="x.isComplete" (click)="updateStatus(x)"></i>
+                <i class="bi bi-x-circle" *ngIf="!x.isComplete" (click)="updateStatus(x)"></i>
+                {{x.name}}
+                <i class="bi bi-x" (click)="delete(x)"></i>
+            </li>
+            <br>
+        </ul>
+    </div>
+</div>
