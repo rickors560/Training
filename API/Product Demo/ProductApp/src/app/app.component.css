@@ -12,14 +12,14 @@
     left: -40px;
     top: 130px;
 }
-.delete{
+.update{
     position:absolute;
     height: 50px;
     width: 50px;
     left: -40px;
     top: 200px;
 }
-.update{
+.delete{
     position:absolute;
     height: 50px;
     width: 50px;

@@ -19,11 +19,18 @@ export class AppService {
     const apiurl = environment.apibaseurl + 'Products';
     const headers = {'content-type':'application/json'};
     return this.http.get<IProduct[]>(apiurl,{'headers':headers}).pipe(
-      //tap(data=>console.log(data)),
+      //tap(data=>console.log(data)), // only to see data in see console what is coming
       catchError(
         //error => {return throwError(error);}
         error => this.myerrorhandler(error)
       )
+    );
+  }
+  getProduct(id : number): Observable<IProduct>{
+    const apiurl = environment.apibaseurl + 'Products/' + id;
+    const headers = {'content-type':'application/json'};
+    return this.http.get<IProduct>(apiurl,{'headers':headers}).pipe(
+      catchError( error => this.myerrorhandler(error) )
     );
   }
   postProduct(product: IProduct): Observable<IProduct> {
@@ -41,8 +48,8 @@ export class AppService {
       catchError( error => this.myerrorhandler(error) )
     );
   }
-  deleteProduct(product: IProduct): Observable<IProduct>{
-    const apiurl = environment.apibaseurl + 'Products/'+ product.id;
+  deleteProduct(id: number): Observable<IProduct>{
+    const apiurl = environment.apibaseurl + 'Products/'+ id;
     const headers = {'accept':'application/json','content-type':'application/json'};
     return this.http.delete<IProduct>(apiurl,{'headers':headers}).pipe(
       catchError( error => this.myerrorhandler(error) )

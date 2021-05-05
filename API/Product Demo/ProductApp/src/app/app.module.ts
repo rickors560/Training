@@ -9,13 +9,17 @@ import { AddProductComponent } from './add-product/add-product.component';
 import { ListProductWithSubscribeComponent } from './list-product-with-subscribe/list-product-with-subscribe.component';
 import { ListProductWithAsyncComponent } from './list-product-with-async/list-product-with-async.component';
 import { HttpClientModule } from '@angular/common/http';
+import { EditProductComponent } from './edit-product/edit-product.component';
+import { DeleteProductComponent } from './delete-product/delete-product.component';
 @NgModule({
   declarations: [
     AppComponent,
     HomeComponent,
     AddProductComponent,
     ListProductWithSubscribeComponent,
-    ListProductWithAsyncComponent
+    ListProductWithAsyncComponent,
+    EditProductComponent,
+    DeleteProductComponent
   ],
   imports: [
     BrowserModule,
