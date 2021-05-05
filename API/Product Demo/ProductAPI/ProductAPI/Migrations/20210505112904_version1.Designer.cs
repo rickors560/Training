@@ -9,7 +9,7 @@ using ProductAPI.Infrastructure;
 namespace ProductAPI.Migrations
 {
     [DbContext(typeof(ProductContext))]
-    [Migration("20210504140819_version1")]
+    [Migration("20210505112904_version1")]
     partial class version1
     {
         protected override void BuildTargetModel(ModelBuilder modelBuilder)
