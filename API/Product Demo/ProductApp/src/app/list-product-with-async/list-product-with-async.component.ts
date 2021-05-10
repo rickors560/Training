@@ -1,4 +1,4 @@
-import { ChangeDetectionStrategy, Component, Input, OnInit } from '@angular/core';
+import { ChangeDetectionStrategy, Component, EventEmitter, Input, OnInit, Output } from '@angular/core';
 import { Observable } from 'rxjs';
 import { IProduct } from '../IProduct';
 
@@ -10,8 +10,16 @@ import { IProduct } from '../IProduct';
 })
 export class ListProductWithAsyncComponent implements OnInit {
   @Input() myproducts$: Observable<IProduct[]>;
-  constructor() { }
+  @Output() deleteEventEmitter: EventEmitter<number>;
+
+  constructor() {
+    this.deleteEventEmitter = new EventEmitter<number>();
+  }
 
   ngOnInit(): void {
+  }
+
+  delete(id: number) {
+    this.deleteEventEmitter.emit(id);
   }
 }

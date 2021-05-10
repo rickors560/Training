@@ -16,16 +16,20 @@
     </thead>
     <tbody>
         <tr *ngFor="let p of myproducts">
-            <td>{{p.id}}</td>
-            <td>{{p.title}}</td>
-            <td>{{p.price | currency:['INR']}}</td>
-            <td>{{p.quantity}}</td>
-            <td>{{p.color}}</td>
-            <td>{{p.expiryDate | date}}</td>
-            <td>
+            <td [routerLink]="['./product',p.id]">{{p.id}}</td>
+            <td [routerLink]="['./product',p.id]">{{p.title}}</td>
+            <td [routerLink]="['./product',p.id]">{{p.price | currency:['INR']}}</td>
+            <td [routerLink]="['./product',p.id]">{{p.quantity}}</td>
+            <td [routerLink]="['./product',p.id]">{{p.color}}</td>
+            <td [routerLink]="['./product',p.id]">{{p.expiryDate | date}}</td>
+            <td [routerLink]="['./product',p.id]">
                 <i class="bi bi-check-circle-fill" *ngIf="p.inStock"></i>
                 <i class="bi bi-x-circle" *ngIf="!p.inStock"></i>
             </td>
+            &nbsp;
+            <i class="bi bi-pen" [routerLink]="['./product/edit',p.id]"></i>
+            &nbsp;&nbsp;
+            <i class="bi bi-trash" (click)="delete(p.id)"></i>
         </tr>
     </tbody>
 </table>

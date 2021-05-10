@@ -11,6 +11,12 @@ import { ListProductWithAsyncComponent } from './list-product-with-async/list-pr
 import { HttpClientModule } from '@angular/common/http';
 import { EditProductComponent } from './edit-product/edit-product.component';
 import { DeleteProductComponent } from './delete-product/delete-product.component';
+import { ShowProductComponent } from './show-product/show-product.component';
+import { BrowserAnimationsModule } from '@angular/platform-browser/animations';
+import { MatTabsModule } from '@angular/material/tabs';
+import { MatTableModule } from '@angular/material/table';
+import { MatSnackBarModule } from '@angular/material/snack-bar';
+import { ListProductWithMatTableComponent } from './list-product-with-mat-table/list-product-with-mat-table.component';
 @NgModule({
   declarations: [
     AppComponent,
@@ -19,14 +25,20 @@ import { DeleteProductComponent } from './delete-product/delete-product.componen
     ListProductWithSubscribeComponent,
     ListProductWithAsyncComponent,
     EditProductComponent,
-    DeleteProductComponent
+    DeleteProductComponent,
+    ShowProductComponent,
+    ListProductWithMatTableComponent
   ],
   imports: [
     BrowserModule,
     AppRoutingModule,
     HttpClientModule,
     FormsModule,
-    ReactiveFormsModule
+    ReactiveFormsModule,
+    BrowserAnimationsModule,
+    MatTabsModule,
+    MatTableModule,
+    MatSnackBarModule
   ],
   providers: [],
   bootstrap: [AppComponent]

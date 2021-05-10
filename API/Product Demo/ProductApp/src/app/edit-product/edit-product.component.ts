@@ -1,6 +1,7 @@
+import { ThrowStmt } from '@angular/compiler';
 import { Component, OnInit } from '@angular/core';
 import { FormBuilder, FormControl, FormGroup, Validators } from '@angular/forms';
-import { Router } from '@angular/router';
+import { ActivatedRoute, Router } from '@angular/router';
 import { Observable } from 'rxjs';
 import { AppService } from '../app.service';
 import { IProduct } from '../IProduct';
@@ -13,16 +14,20 @@ import { IProduct } from '../IProduct';
 export class EditProductComponent implements OnInit {
   products$: Observable<IProduct[]>;
   selectidControl: FormControl = new FormControl(0);
+  selectDisable: boolean = false;
   showProductDetails: boolean = false;
   editform: FormGroup;
+  id: number;
 
-  constructor(private fb: FormBuilder, private myservice: AppService, private router:Router) {
+  constructor(private fb: FormBuilder, private myservice: AppService,
+    private router: Router, private activatedroute: ActivatedRoute) {
+
     this.products$ = new Observable<IProduct[]>();
 
     this.editform = this.fb.group({
       title: ['', Validators.required],
-      price: [ ,[Validators.required, Validators.min(0)]],
-      quantity: [ ,[Validators.required, Validators.min(0)]],
+      price: [, [Validators.required, Validators.min(0)]],
+      quantity: [, [Validators.required, Validators.min(0)]],
       color: ['', Validators.required],
       expirydate: ['', Validators.required],
       instock: [true, Validators.required]
@@ -30,8 +35,18 @@ export class EditProductComponent implements OnInit {
   }
 
   ngOnInit(): void {
+    this.activatedroute.paramMap.subscribe(params => {
+      this.id = Number(params.get('id'));
+      if (this.id > 0) {
+        this.selectidControl.setValue(this.id);
+        this.selectDisable = true;
+        this.showDetails();
+      }
+    });
+
     this.products$ = this.myservice.getProducts();
   }
+  
   showDetails() {
     if (this.selectidControl.value != "0") {
       this.showProductDetails = true;
@@ -46,11 +61,24 @@ export class EditProductComponent implements OnInit {
         }
       );
     }
+    else {
+      this.showProductDetails = false;
+    }
   }
-  update(){
-    let product:IProduct = {...this.editform.value};
+
+  update() {
+    let product: IProduct = { ...this.editform.value };
     product.id = Number(this.selectidControl.value);
-    this.myservice.putProduct(product).subscribe();
-    this.router.navigate(['/home']);
+    this.myservice.putProduct(product).subscribe(
+      () => {
+        if (this.id > 0) {
+          this.router.navigate(['/']);
+        }
+        else {
+          this.selectidControl.setValue(0);
+          this.showProductDetails = false;
+        }
+      }
+    );
   }
 }

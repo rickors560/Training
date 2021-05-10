@@ -6,25 +6,37 @@
     <form [formGroup]="addform" (ngSubmit)="submit()" class="myform">
 
         <div class="input-group mb-3">
+            <div class="input-group-prepend">
+                <span class="input-group-text" id="basic-addon1"><i class="far fa-address-card"></i></span>
+            </div>
             <input type="text" formControlName="title" class="form-control" placeholder="Enter Title">
         </div>
 
         <div class="input-group mb-3">
             <div class="input-group-prepend">
-                <span class="input-group-text" id="basic-addon1">₹</span>
+                <span class="input-group-text" id="basic-addon1"><i class="fas fa-rupee-sign"></i></span>
             </div>
             <input type="number" formControlName="price" class="form-control" placeholder="Enter Price">
         </div>
 
         <div class="input-group mb-3">
+            <div class="input-group-prepend">
+                <span class="input-group-text" id="basic-addon1"><i class="fas fa-boxes"></i></span>
+            </div>
             <input type="number" formControlName="quantity" class="form-control" placeholder="Enter Quantity">
         </div>
 
         <div class="input-group mb-3">
+            <div class="input-group-prepend">
+                <span class="input-group-text" id="basic-addon1"><i class="fas fa-palette"></i></span>
+            </div>
             <input type="text" formControlName="color" class="form-control" placeholder="Enter Color">
         </div>
 
         <div class="input-group mb-3">
+            <div class="input-group-prepend">
+                <span class="input-group-text" id="basic-addon1"><i class="far fa-calendar-alt"></i></span>
+            </div>
             <input type="text" formControlName="expirydate" class="form-control" placeholder="Enter ExpiryDate"
                 onclick="(this.type='date')" onkeyup="(this.type='date')">
         </div>

@@ -11,7 +11,6 @@ import { IProduct } from '../IProduct';
   styleUrls: ['./delete-product.component.css']
 })
 export class DeleteProductComponent implements OnInit {
-
   products$: Observable<IProduct[]>;
   selectidControl: FormControl = new FormControl(0);
   showProductDetails: boolean = false;
@@ -54,7 +53,12 @@ export class DeleteProductComponent implements OnInit {
   }
 
   delete() {
-    this.myservice.deleteProduct(Number(this.selectidControl.value)).subscribe();
-    this.router.navigate(['/home']);
+    this.myservice.deleteProduct(Number(this.selectidControl.value)).subscribe(
+      () => {
+        this.products$ = this.myservice.getProducts();
+        this.selectidControl.setValue(0);
+        this.showProductDetails = false;
+      }
+    );
   }
 }

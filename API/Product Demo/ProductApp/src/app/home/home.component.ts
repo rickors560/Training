@@ -9,12 +9,19 @@ import { IProduct } from '../IProduct';
   styleUrls: ['./home.component.css']
 })
 export class HomeComponent implements OnInit {
-  
   products$: Observable<IProduct[]>
-  constructor(private myservice: AppService) { 
+
+  constructor(private myservice: AppService) {
     this.products$ = new Observable<IProduct[]>();
   }
+
   ngOnInit(): void {
-   this.products$ = this.myservice.getProducts(); 
+    this.products$ = this.myservice.getProducts();
+  }
+
+  delete(id: number) {
+    this.myservice.deleteProduct(id).subscribe(
+      () => this.products$ = this.myservice.getProducts()
+    );
   }
 }
