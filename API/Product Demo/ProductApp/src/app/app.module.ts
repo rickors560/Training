@@ -16,6 +16,7 @@ import { MatTabsModule } from '@angular/material/tabs';
 import { MatTableModule } from '@angular/material/table';
 import { MatSnackBarModule } from '@angular/material/snack-bar';
 import { ShowProductComponent } from './show-product/show-product.component';
+import { ListProductWithMatTableComponent } from './list-product-with-mat-table/list-product-with-mat-table.component';
 //import { ListProductWithMatTableComponent } from './list-product-with-mat-table/list-product-with-mat-table.component';
 @NgModule({
   declarations: [
@@ -27,7 +28,8 @@ import { ShowProductComponent } from './show-product/show-product.component';
     EditProductComponent,
     DeleteProductComponent,
     ShowProductComponent,
-    ShowProductComponent
+    ShowProductComponent,
+    ListProductWithMatTableComponent
     //ListProductWithMatTableComponent
   ],
   imports: [
